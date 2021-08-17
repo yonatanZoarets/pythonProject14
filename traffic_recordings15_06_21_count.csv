@@ -1,0 +1,1431 @@
+road,point,hour,traffic_percent,currentSpeed,freeFlowSpeed,num_Vehicles
+Cahill Expressway Northbound,"-33.86161,151.21329",07:00,0.0,42,42,1119.0
+Cahill Expressway Northbound,"-33.8633,151.21326",07:00,0.0,42,42,1119.0
+Cahill Expressway Northbound,"-33.86155,151.21224",07:00,0.0,61,61,1119.0
+Cahill Expressway Northbound,"-33.86094,151.20603",07:00,0.0,60,60,1119.0
+Cahill Expressway Northbound,"-33.86024,151.20454",07:00,0.0,61,61,1119.0
+Cahill Expressway Northbound,"-33.86102,151.20515",07:00,0.0,61,61,1119.0
+Cahill Expressway Northbound,"-33.86161,151.21329",07:15,0.0,42,42,1119.0
+Cahill Expressway Northbound,"-33.8633,151.21326",07:15,0.0,42,42,1119.0
+Cahill Expressway Northbound,"-33.86155,151.21224",07:15,0.0,61,61,1119.0
+Cahill Expressway Northbound,"-33.86094,151.20603",07:15,0.0,60,60,1119.0
+Cahill Expressway Northbound,"-33.86024,151.20454",07:15,0.0,61,61,1119.0
+Cahill Expressway Northbound,"-33.86102,151.20515",07:15,0.0,61,61,1119.0
+Cahill Expressway Northbound,"-33.86161,151.21329",07:30,0.0,42,42,1119.0
+Cahill Expressway Northbound,"-33.8633,151.21326",07:30,0.0,42,42,1119.0
+Cahill Expressway Northbound,"-33.86155,151.21224",07:30,0.0,61,61,1119.0
+Cahill Expressway Northbound,"-33.86094,151.20603",07:30,0.0,60,60,1119.0
+Cahill Expressway Northbound,"-33.86024,151.20454",07:30,0.0,61,61,1119.0
+Cahill Expressway Northbound,"-33.86102,151.20515",07:30,0.0,61,61,1119.0
+Cahill Expressway Northbound,"-33.86161,151.21329",07:45,0.0,42,42,1119.0
+Cahill Expressway Northbound,"-33.8633,151.21326",07:45,0.0,42,42,1119.0
+Cahill Expressway Northbound,"-33.86155,151.21224",07:45,0.0,61,61,1119.0
+Cahill Expressway Northbound,"-33.86094,151.20603",07:45,0.0,60,60,1119.0
+Cahill Expressway Northbound,"-33.86024,151.20454",07:45,0.0,61,61,1119.0
+Cahill Expressway Northbound,"-33.86102,151.20515",07:45,0.0,61,61,1119.0
+Cahill Expressway Northbound,"-33.86161,151.21329",08:00,41.860465116279066,25,43,1330.0
+Cahill Expressway Northbound,"-33.8633,151.21326",08:00,41.860465116279066,25,43,1330.0
+Cahill Expressway Northbound,"-33.86155,151.21224",08:00,0.0,61,61,1330.0
+Cahill Expressway Northbound,"-33.86094,151.20603",08:00,0.0,60,60,1330.0
+Cahill Expressway Northbound,"-33.86024,151.20454",08:00,0.0,61,61,1330.0
+Cahill Expressway Northbound,"-33.86102,151.20515",08:00,0.0,61,61,1330.0
+Cahill Expressway Northbound,"-33.86161,151.21329",08:15,0.0,43,43,1330.0
+Cahill Expressway Northbound,"-33.8633,151.21326",08:15,0.0,43,43,1330.0
+Cahill Expressway Northbound,"-33.86155,151.21224",08:15,21.311475409836067,48,61,1330.0
+Cahill Expressway Northbound,"-33.86094,151.20603",08:15,0.0,60,60,1330.0
+Cahill Expressway Northbound,"-33.86024,151.20454",08:15,21.311475409836067,48,61,1330.0
+Cahill Expressway Northbound,"-33.86102,151.20515",08:15,21.311475409836067,48,61,1330.0
+Cahill Expressway Northbound,"-33.86161,151.21329",08:30,45.238095238095234,23,42,1330.0
+Cahill Expressway Northbound,"-33.8633,151.21326",08:30,45.238095238095234,23,42,1330.0
+Cahill Expressway Northbound,"-33.86155,151.21224",08:30,26.22950819672131,45,61,1330.0
+Cahill Expressway Northbound,"-33.86094,151.20603",08:30,0.0,59,59,1330.0
+Cahill Expressway Northbound,"-33.86024,151.20454",08:30,26.22950819672131,45,61,1330.0
+Cahill Expressway Northbound,"-33.86102,151.20515",08:30,26.22950819672131,45,61,1330.0
+Cahill Expressway Northbound,"-33.86161,151.21329",08:45,0.0,42,42,1330.0
+Cahill Expressway Northbound,"-33.8633,151.21326",08:45,0.0,42,42,1330.0
+Cahill Expressway Northbound,"-33.86155,151.21224",08:45,21.666666666666668,47,60,1330.0
+Cahill Expressway Northbound,"-33.86094,151.20603",08:45,0.0,59,59,1330.0
+Cahill Expressway Northbound,"-33.86024,151.20454",08:45,21.666666666666668,47,60,1330.0
+Cahill Expressway Northbound,"-33.86102,151.20515",08:45,21.666666666666668,47,60,1330.0
+Cahill Expressway Northbound,"-33.86161,151.21329",09:00,32.55813953488372,29,43,1049.0
+Cahill Expressway Northbound,"-33.8633,151.21326",09:00,32.55813953488372,29,43,1049.0
+Cahill Expressway Northbound,"-33.86155,151.21224",09:00,13.33333333333333,52,60,1049.0
+Cahill Expressway Northbound,"-33.86094,151.20603",09:00,0.0,59,59,1049.0
+Cahill Expressway Northbound,"-33.86024,151.20454",09:00,13.33333333333333,52,60,1049.0
+Cahill Expressway Northbound,"-33.86102,151.20515",09:00,13.33333333333333,52,60,1049.0
+Cahill Expressway Northbound,"-33.86161,151.21329",09:15,0.0,43,43,1049.0
+Cahill Expressway Northbound,"-33.8633,151.21326",09:15,0.0,43,43,1049.0
+Cahill Expressway Northbound,"-33.86155,151.21224",09:15,41.3793103448276,34,58,1049.0
+Cahill Expressway Northbound,"-33.86094,151.20603",09:15,0.0,59,59,1049.0
+Cahill Expressway Northbound,"-33.86024,151.20454",09:15,41.3793103448276,34,58,1049.0
+Cahill Expressway Northbound,"-33.86102,151.20515",09:15,41.3793103448276,34,58,1049.0
+Cahill Expressway Northbound,"-33.86161,151.21329",09:30,0.0,43,43,1049.0
+Cahill Expressway Northbound,"-33.8633,151.21326",09:30,0.0,43,43,1049.0
+Cahill Expressway Northbound,"-33.86155,151.21224",09:30,20.0,48,60,1049.0
+Cahill Expressway Northbound,"-33.86094,151.20603",09:30,0.0,59,59,1049.0
+Cahill Expressway Northbound,"-33.86024,151.20454",09:30,20.0,48,60,1049.0
+Cahill Expressway Northbound,"-33.86102,151.20515",09:30,20.0,48,60,1049.0
+Cahill Expressway Northbound,"-33.86161,151.21329",09:45,0.0,43,43,1049.0
+Cahill Expressway Northbound,"-33.8633,151.21326",09:45,0.0,43,43,1049.0
+Cahill Expressway Northbound,"-33.86155,151.21224",09:45,0.0,61,61,1049.0
+Cahill Expressway Northbound,"-33.86094,151.20603",09:45,0.0,59,59,1049.0
+Cahill Expressway Northbound,"-33.86024,151.20454",09:45,0.0,61,61,1049.0
+Cahill Expressway Northbound,"-33.86102,151.20515",09:45,0.0,61,61,1049.0
+Elizabeth Drive Eastbound,"-33.86547,150.69865",07:00,0.0,49,49,1194.0
+Elizabeth Drive Eastbound,"-33.86461,150.70842",07:00,0.0,75,75,1194.0
+Elizabeth Drive Eastbound,"-33.86851,150.71696",07:00,0.0,65,65,1194.0
+Elizabeth Drive Eastbound,"-33.87107,150.73361",07:00,0.0,79,79,1194.0
+Elizabeth Drive Eastbound,"-33.87338,150.75003",07:00,0.0,75,75,1194.0
+Elizabeth Drive Eastbound,"-33.87418,150.75697",07:00,0.0,73,73,1194.0
+Elizabeth Drive Eastbound,"-33.87592,150.76988",07:00,0.0,75,75,1194.0
+Elizabeth Drive Eastbound,"-33.87935,150.78513",07:00,0.0,67,67,1194.0
+Elizabeth Drive Eastbound,"-33.8807,150.79352",07:00,0.0,61,61,1194.0
+Elizabeth Drive Eastbound,"-33.88072,150.80624",07:00,0.0,67,67,1194.0
+Elizabeth Drive Eastbound,"-33.88042,150.8097",07:00,0.0,69,69,1194.0
+Elizabeth Drive Eastbound,"-33.88073,150.81972",07:00,0.0,71,71,1194.0
+Elizabeth Drive Eastbound,"-33.87603,150.82784",07:00,0.0,69,69,1194.0
+Elizabeth Drive Eastbound,"-33.87476,150.83832",07:00,0.0,71,71,1194.0
+Elizabeth Drive Eastbound,"-33.877,150.84343",07:00,0.0,69,69,1194.0
+Elizabeth Drive Eastbound,"-33.86547,150.69865",07:15,0.0,49,49,1194.0
+Elizabeth Drive Eastbound,"-33.86461,150.70842",07:15,0.0,75,75,1194.0
+Elizabeth Drive Eastbound,"-33.86851,150.71696",07:15,0.0,65,65,1194.0
+Elizabeth Drive Eastbound,"-33.87107,150.73361",07:15,0.0,79,79,1194.0
+Elizabeth Drive Eastbound,"-33.87338,150.75003",07:15,0.0,75,75,1194.0
+Elizabeth Drive Eastbound,"-33.87418,150.75697",07:15,0.0,73,73,1194.0
+Elizabeth Drive Eastbound,"-33.87592,150.76988",07:15,0.0,75,75,1194.0
+Elizabeth Drive Eastbound,"-33.87935,150.78513",07:15,0.0,67,67,1194.0
+Elizabeth Drive Eastbound,"-33.8807,150.79352",07:15,0.0,61,61,1194.0
+Elizabeth Drive Eastbound,"-33.88072,150.80624",07:15,0.0,67,67,1194.0
+Elizabeth Drive Eastbound,"-33.88042,150.8097",07:15,0.0,69,69,1194.0
+Elizabeth Drive Eastbound,"-33.88073,150.81972",07:15,0.0,71,71,1194.0
+Elizabeth Drive Eastbound,"-33.87603,150.82784",07:15,0.0,69,69,1194.0
+Elizabeth Drive Eastbound,"-33.87476,150.83832",07:15,0.0,71,71,1194.0
+Elizabeth Drive Eastbound,"-33.877,150.84343",07:15,0.0,69,69,1194.0
+Elizabeth Drive Eastbound,"-33.86547,150.69865",07:30,0.0,49,49,1194.0
+Elizabeth Drive Eastbound,"-33.86461,150.70842",07:30,0.0,75,75,1194.0
+Elizabeth Drive Eastbound,"-33.86851,150.71696",07:30,31.25,44,64,1194.0
+Elizabeth Drive Eastbound,"-33.87107,150.73361",07:30,0.0,79,79,1194.0
+Elizabeth Drive Eastbound,"-33.87338,150.75003",07:30,0.0,75,75,1194.0
+Elizabeth Drive Eastbound,"-33.87418,150.75697",07:30,0.0,73,73,1194.0
+Elizabeth Drive Eastbound,"-33.87592,150.76988",07:30,0.0,75,75,1194.0
+Elizabeth Drive Eastbound,"-33.87935,150.78513",07:30,0.0,67,67,1194.0
+Elizabeth Drive Eastbound,"-33.8807,150.79352",07:30,0.0,62,62,1194.0
+Elizabeth Drive Eastbound,"-33.88072,150.80624",07:30,0.0,67,67,1194.0
+Elizabeth Drive Eastbound,"-33.88042,150.8097",07:30,0.0,69,69,1194.0
+Elizabeth Drive Eastbound,"-33.88073,150.81972",07:30,0.0,71,71,1194.0
+Elizabeth Drive Eastbound,"-33.87603,150.82784",07:30,0.0,69,69,1194.0
+Elizabeth Drive Eastbound,"-33.87476,150.83832",07:30,0.0,71,71,1194.0
+Elizabeth Drive Eastbound,"-33.877,150.84343",07:30,0.0,69,69,1194.0
+Elizabeth Drive Eastbound,"-33.86547,150.69865",07:45,0.0,49,49,1194.0
+Elizabeth Drive Eastbound,"-33.86461,150.70842",07:45,0.0,75,75,1194.0
+Elizabeth Drive Eastbound,"-33.86851,150.71696",07:45,0.0,64,64,1194.0
+Elizabeth Drive Eastbound,"-33.87107,150.73361",07:45,0.0,79,79,1194.0
+Elizabeth Drive Eastbound,"-33.87338,150.75003",07:45,0.0,75,75,1194.0
+Elizabeth Drive Eastbound,"-33.87418,150.75697",07:45,0.0,73,73,1194.0
+Elizabeth Drive Eastbound,"-33.87592,150.76988",07:45,0.0,75,75,1194.0
+Elizabeth Drive Eastbound,"-33.87935,150.78513",07:45,0.0,68,68,1194.0
+Elizabeth Drive Eastbound,"-33.8807,150.79352",07:45,0.0,62,62,1194.0
+Elizabeth Drive Eastbound,"-33.88072,150.80624",07:45,0.0,67,67,1194.0
+Elizabeth Drive Eastbound,"-33.88042,150.8097",07:45,0.0,69,69,1194.0
+Elizabeth Drive Eastbound,"-33.88073,150.81972",07:45,0.0,71,71,1194.0
+Elizabeth Drive Eastbound,"-33.87603,150.82784",07:45,0.0,69,69,1194.0
+Elizabeth Drive Eastbound,"-33.87476,150.83832",07:45,0.0,71,71,1194.0
+Elizabeth Drive Eastbound,"-33.877,150.84343",07:45,0.0,69,69,1194.0
+Elizabeth Drive Eastbound,"-33.86547,150.69865",08:00,0.0,49,49,1319.0
+Elizabeth Drive Eastbound,"-33.86461,150.70842",08:00,0.0,75,75,1319.0
+Elizabeth Drive Eastbound,"-33.86851,150.71696",08:00,42.1875,37,64,1319.0
+Elizabeth Drive Eastbound,"-33.87107,150.73361",08:00,0.0,79,79,1319.0
+Elizabeth Drive Eastbound,"-33.87338,150.75003",08:00,0.0,75,75,1319.0
+Elizabeth Drive Eastbound,"-33.87418,150.75697",08:00,0.0,73,73,1319.0
+Elizabeth Drive Eastbound,"-33.87592,150.76988",08:00,0.0,75,75,1319.0
+Elizabeth Drive Eastbound,"-33.87935,150.78513",08:00,0.0,67,67,1319.0
+Elizabeth Drive Eastbound,"-33.8807,150.79352",08:00,43.548387096774185,35,62,1319.0
+Elizabeth Drive Eastbound,"-33.88072,150.80624",08:00,0.0,67,67,1319.0
+Elizabeth Drive Eastbound,"-33.88042,150.8097",08:00,0.0,68,68,1319.0
+Elizabeth Drive Eastbound,"-33.88073,150.81972",08:00,0.0,71,71,1319.0
+Elizabeth Drive Eastbound,"-33.87603,150.82784",08:00,0.0,68,68,1319.0
+Elizabeth Drive Eastbound,"-33.87476,150.83832",08:00,0.0,71,71,1319.0
+Elizabeth Drive Eastbound,"-33.877,150.84343",08:00,0.0,68,68,1319.0
+Elizabeth Drive Eastbound,"-33.86547,150.69865",08:15,0.0,49,49,1319.0
+Elizabeth Drive Eastbound,"-33.86461,150.70842",08:15,0.0,75,75,1319.0
+Elizabeth Drive Eastbound,"-33.86851,150.71696",08:15,0.0,65,65,1319.0
+Elizabeth Drive Eastbound,"-33.87107,150.73361",08:15,0.0,79,79,1319.0
+Elizabeth Drive Eastbound,"-33.87338,150.75003",08:15,0.0,75,75,1319.0
+Elizabeth Drive Eastbound,"-33.87418,150.75697",08:15,0.0,73,73,1319.0
+Elizabeth Drive Eastbound,"-33.87592,150.76988",08:15,0.0,75,75,1319.0
+Elizabeth Drive Eastbound,"-33.87935,150.78513",08:15,0.0,67,67,1319.0
+Elizabeth Drive Eastbound,"-33.8807,150.79352",08:15,0.0,62,62,1319.0
+Elizabeth Drive Eastbound,"-33.88072,150.80624",08:15,0.0,67,67,1319.0
+Elizabeth Drive Eastbound,"-33.88042,150.8097",08:15,0.0,68,68,1319.0
+Elizabeth Drive Eastbound,"-33.88073,150.81972",08:15,0.0,71,71,1319.0
+Elizabeth Drive Eastbound,"-33.87603,150.82784",08:15,0.0,68,68,1319.0
+Elizabeth Drive Eastbound,"-33.87476,150.83832",08:15,0.0,71,71,1319.0
+Elizabeth Drive Eastbound,"-33.877,150.84343",08:15,0.0,68,68,1319.0
+Elizabeth Drive Eastbound,"-33.86547,150.69865",08:30,0.0,49,49,1319.0
+Elizabeth Drive Eastbound,"-33.86461,150.70842",08:30,0.0,75,75,1319.0
+Elizabeth Drive Eastbound,"-33.86851,150.71696",08:30,23.4375,49,64,1319.0
+Elizabeth Drive Eastbound,"-33.87107,150.73361",08:30,0.0,79,79,1319.0
+Elizabeth Drive Eastbound,"-33.87338,150.75003",08:30,0.0,75,75,1319.0
+Elizabeth Drive Eastbound,"-33.87418,150.75697",08:30,0.0,73,73,1319.0
+Elizabeth Drive Eastbound,"-33.87592,150.76988",08:30,0.0,75,75,1319.0
+Elizabeth Drive Eastbound,"-33.87935,150.78513",08:30,0.0,67,67,1319.0
+Elizabeth Drive Eastbound,"-33.8807,150.79352",08:30,0.0,62,62,1319.0
+Elizabeth Drive Eastbound,"-33.88072,150.80624",08:30,0.0,65,65,1319.0
+Elizabeth Drive Eastbound,"-33.88042,150.8097",08:30,0.0,68,68,1319.0
+Elizabeth Drive Eastbound,"-33.88073,150.81972",08:30,0.0,71,71,1319.0
+Elizabeth Drive Eastbound,"-33.87603,150.82784",08:30,0.0,68,68,1319.0
+Elizabeth Drive Eastbound,"-33.87476,150.83832",08:30,0.0,71,71,1319.0
+Elizabeth Drive Eastbound,"-33.877,150.84343",08:30,0.0,68,68,1319.0
+Elizabeth Drive Eastbound,"-33.86547,150.69865",08:45,34.693877551020414,32,49,1319.0
+Elizabeth Drive Eastbound,"-33.86461,150.70842",08:45,0.0,75,75,1319.0
+Elizabeth Drive Eastbound,"-33.86851,150.71696",08:45,35.38461538461538,42,65,1319.0
+Elizabeth Drive Eastbound,"-33.87107,150.73361",08:45,0.0,79,79,1319.0
+Elizabeth Drive Eastbound,"-33.87338,150.75003",08:45,0.0,75,75,1319.0
+Elizabeth Drive Eastbound,"-33.87418,150.75697",08:45,0.0,73,73,1319.0
+Elizabeth Drive Eastbound,"-33.87592,150.76988",08:45,0.0,75,75,1319.0
+Elizabeth Drive Eastbound,"-33.87935,150.78513",08:45,0.0,67,67,1319.0
+Elizabeth Drive Eastbound,"-33.8807,150.79352",08:45,0.0,62,62,1319.0
+Elizabeth Drive Eastbound,"-33.88072,150.80624",08:45,0.0,65,65,1319.0
+Elizabeth Drive Eastbound,"-33.88042,150.8097",08:45,0.0,68,68,1319.0
+Elizabeth Drive Eastbound,"-33.88073,150.81972",08:45,0.0,71,71,1319.0
+Elizabeth Drive Eastbound,"-33.87603,150.82784",08:45,0.0,68,68,1319.0
+Elizabeth Drive Eastbound,"-33.87476,150.83832",08:45,0.0,71,71,1319.0
+Elizabeth Drive Eastbound,"-33.877,150.84343",08:45,0.0,68,68,1319.0
+Elizabeth Drive Eastbound,"-33.86547,150.69865",09:00,0.0,48,48,786.0
+Elizabeth Drive Eastbound,"-33.86461,150.70842",09:00,0.0,75,75,786.0
+Elizabeth Drive Eastbound,"-33.86851,150.71696",09:00,0.0,65,65,786.0
+Elizabeth Drive Eastbound,"-33.87107,150.73361",09:00,0.0,79,79,786.0
+Elizabeth Drive Eastbound,"-33.87338,150.75003",09:00,0.0,75,75,786.0
+Elizabeth Drive Eastbound,"-33.87418,150.75697",09:00,0.0,73,73,786.0
+Elizabeth Drive Eastbound,"-33.87592,150.76988",09:00,0.0,75,75,786.0
+Elizabeth Drive Eastbound,"-33.87935,150.78513",09:00,0.0,67,67,786.0
+Elizabeth Drive Eastbound,"-33.8807,150.79352",09:00,0.0,62,62,786.0
+Elizabeth Drive Eastbound,"-33.88072,150.80624",09:00,0.0,65,65,786.0
+Elizabeth Drive Eastbound,"-33.88042,150.8097",09:00,0.0,68,68,786.0
+Elizabeth Drive Eastbound,"-33.88073,150.81972",09:00,0.0,71,71,786.0
+Elizabeth Drive Eastbound,"-33.87603,150.82784",09:00,0.0,68,68,786.0
+Elizabeth Drive Eastbound,"-33.87476,150.83832",09:00,0.0,71,71,786.0
+Elizabeth Drive Eastbound,"-33.877,150.84343",09:00,0.0,68,68,786.0
+Elizabeth Drive Eastbound,"-33.86547,150.69865",09:15,0.0,48,48,786.0
+Elizabeth Drive Eastbound,"-33.86461,150.70842",09:15,0.0,75,75,786.0
+Elizabeth Drive Eastbound,"-33.86851,150.71696",09:15,0.0,64,64,786.0
+Elizabeth Drive Eastbound,"-33.87107,150.73361",09:15,0.0,79,79,786.0
+Elizabeth Drive Eastbound,"-33.87338,150.75003",09:15,0.0,75,75,786.0
+Elizabeth Drive Eastbound,"-33.87418,150.75697",09:15,0.0,73,73,786.0
+Elizabeth Drive Eastbound,"-33.87592,150.76988",09:15,0.0,75,75,786.0
+Elizabeth Drive Eastbound,"-33.87935,150.78513",09:15,0.0,67,67,786.0
+Elizabeth Drive Eastbound,"-33.8807,150.79352",09:15,0.0,62,62,786.0
+Elizabeth Drive Eastbound,"-33.88072,150.80624",09:15,0.0,65,65,786.0
+Elizabeth Drive Eastbound,"-33.88042,150.8097",09:15,0.0,68,68,786.0
+Elizabeth Drive Eastbound,"-33.88073,150.81972",09:15,0.0,71,71,786.0
+Elizabeth Drive Eastbound,"-33.87603,150.82784",09:15,0.0,68,68,786.0
+Elizabeth Drive Eastbound,"-33.87476,150.83832",09:15,0.0,71,71,786.0
+Elizabeth Drive Eastbound,"-33.877,150.84343",09:15,0.0,68,68,786.0
+Elizabeth Drive Eastbound,"-33.86547,150.69865",09:30,52.0,24,50,786.0
+Elizabeth Drive Eastbound,"-33.86461,150.70842",09:30,0.0,75,75,786.0
+Elizabeth Drive Eastbound,"-33.86851,150.71696",09:30,0.0,64,64,786.0
+Elizabeth Drive Eastbound,"-33.87107,150.73361",09:30,0.0,79,79,786.0
+Elizabeth Drive Eastbound,"-33.87338,150.75003",09:30,0.0,75,75,786.0
+Elizabeth Drive Eastbound,"-33.87418,150.75697",09:30,0.0,73,73,786.0
+Elizabeth Drive Eastbound,"-33.87592,150.76988",09:30,0.0,75,75,786.0
+Elizabeth Drive Eastbound,"-33.87935,150.78513",09:30,0.0,67,67,786.0
+Elizabeth Drive Eastbound,"-33.8807,150.79352",09:30,0.0,62,62,786.0
+Elizabeth Drive Eastbound,"-33.88072,150.80624",09:30,0.0,65,65,786.0
+Elizabeth Drive Eastbound,"-33.88042,150.8097",09:30,0.0,66,66,786.0
+Elizabeth Drive Eastbound,"-33.88073,150.81972",09:30,0.0,71,71,786.0
+Elizabeth Drive Eastbound,"-33.87603,150.82784",09:30,0.0,66,66,786.0
+Elizabeth Drive Eastbound,"-33.87476,150.83832",09:30,0.0,71,71,786.0
+Elizabeth Drive Eastbound,"-33.877,150.84343",09:30,0.0,66,66,786.0
+Elizabeth Drive Westbound,"-33.87716,150.84332",07:00,0.0,57,57,1311.0
+Elizabeth Drive Westbound,"-33.87476,150.83832",07:00,0.0,71,71,1311.0
+Elizabeth Drive Westbound,"-33.87603,150.82784",07:00,0.0,69,69,1311.0
+Elizabeth Drive Westbound,"-33.88073,150.81972",07:00,0.0,71,71,1311.0
+Elizabeth Drive Westbound,"-33.88042,150.8097",07:00,0.0,69,69,1311.0
+Elizabeth Drive Westbound,"-33.88076,150.80432",07:00,0.0,67,67,1311.0
+Elizabeth Drive Westbound,"-33.88049,150.79247",07:00,0.0,66,66,1311.0
+Elizabeth Drive Westbound,"-33.87824,150.78295",07:00,0.0,66,66,1311.0
+Elizabeth Drive Westbound,"-33.87576,150.76878",07:00,0.0,73,73,1311.0
+Elizabeth Drive Westbound,"-33.87385,150.75439",07:00,0.0,73,73,1311.0
+Elizabeth Drive Westbound,"-33.87348,150.74997",07:00,0.0,73,73,1311.0
+Elizabeth Drive Westbound,"-33.87092,150.73242",07:00,0.0,81,81,1311.0
+Elizabeth Drive Westbound,"-33.86831,150.71664",07:00,0.0,70,70,1311.0
+Elizabeth Drive Westbound,"-33.86463,150.70826",07:00,0.0,57,57,1311.0
+Elizabeth Drive Westbound,"-33.87716,150.84332",07:15,0.0,57,57,1311.0
+Elizabeth Drive Westbound,"-33.87476,150.83832",07:15,0.0,71,71,1311.0
+Elizabeth Drive Westbound,"-33.87603,150.82784",07:15,0.0,69,69,1311.0
+Elizabeth Drive Westbound,"-33.88073,150.81972",07:15,0.0,71,71,1311.0
+Elizabeth Drive Westbound,"-33.88042,150.8097",07:15,0.0,69,69,1311.0
+Elizabeth Drive Westbound,"-33.88076,150.80432",07:15,0.0,67,67,1311.0
+Elizabeth Drive Westbound,"-33.88049,150.79247",07:15,0.0,66,66,1311.0
+Elizabeth Drive Westbound,"-33.87824,150.78295",07:15,0.0,66,66,1311.0
+Elizabeth Drive Westbound,"-33.87576,150.76878",07:15,0.0,73,73,1311.0
+Elizabeth Drive Westbound,"-33.87385,150.75439",07:15,0.0,73,73,1311.0
+Elizabeth Drive Westbound,"-33.87348,150.74997",07:15,0.0,73,73,1311.0
+Elizabeth Drive Westbound,"-33.87092,150.73242",07:15,0.0,81,81,1311.0
+Elizabeth Drive Westbound,"-33.86831,150.71664",07:15,0.0,71,71,1311.0
+Elizabeth Drive Westbound,"-33.86463,150.70826",07:15,0.0,57,57,1311.0
+Elizabeth Drive Westbound,"-33.87716,150.84332",07:30,14.035087719298245,49,57,1311.0
+Elizabeth Drive Westbound,"-33.87476,150.83832",07:30,0.0,71,71,1311.0
+Elizabeth Drive Westbound,"-33.87603,150.82784",07:30,0.0,69,69,1311.0
+Elizabeth Drive Westbound,"-33.88073,150.81972",07:30,0.0,71,71,1311.0
+Elizabeth Drive Westbound,"-33.88042,150.8097",07:30,0.0,69,69,1311.0
+Elizabeth Drive Westbound,"-33.88076,150.80432",07:30,0.0,67,67,1311.0
+Elizabeth Drive Westbound,"-33.88049,150.79247",07:30,16.666666666666664,55,66,1311.0
+Elizabeth Drive Westbound,"-33.87824,150.78295",07:30,16.666666666666664,55,66,1311.0
+Elizabeth Drive Westbound,"-33.87576,150.76878",07:30,0.0,73,73,1311.0
+Elizabeth Drive Westbound,"-33.87385,150.75439",07:30,0.0,73,73,1311.0
+Elizabeth Drive Westbound,"-33.87348,150.74997",07:30,0.0,73,73,1311.0
+Elizabeth Drive Westbound,"-33.87092,150.73242",07:30,0.0,81,81,1311.0
+Elizabeth Drive Westbound,"-33.86831,150.71664",07:30,0.0,71,71,1311.0
+Elizabeth Drive Westbound,"-33.86463,150.70826",07:30,0.0,57,57,1311.0
+Elizabeth Drive Westbound,"-33.87716,150.84332",07:45,17.24137931034483,48,58,1311.0
+Elizabeth Drive Westbound,"-33.87476,150.83832",07:45,0.0,71,71,1311.0
+Elizabeth Drive Westbound,"-33.87603,150.82784",07:45,0.0,69,69,1311.0
+Elizabeth Drive Westbound,"-33.88073,150.81972",07:45,0.0,71,71,1311.0
+Elizabeth Drive Westbound,"-33.88042,150.8097",07:45,0.0,69,69,1311.0
+Elizabeth Drive Westbound,"-33.88076,150.80432",07:45,0.0,67,67,1311.0
+Elizabeth Drive Westbound,"-33.88049,150.79247",07:45,0.0,66,66,1311.0
+Elizabeth Drive Westbound,"-33.87824,150.78295",07:45,0.0,66,66,1311.0
+Elizabeth Drive Westbound,"-33.87576,150.76878",07:45,0.0,73,73,1311.0
+Elizabeth Drive Westbound,"-33.87385,150.75439",07:45,0.0,73,73,1311.0
+Elizabeth Drive Westbound,"-33.87348,150.74997",07:45,0.0,73,73,1311.0
+Elizabeth Drive Westbound,"-33.87092,150.73242",07:45,0.0,81,81,1311.0
+Elizabeth Drive Westbound,"-33.86831,150.71664",07:45,0.0,71,71,1311.0
+Elizabeth Drive Westbound,"-33.86463,150.70826",07:45,0.0,57,57,1311.0
+Elizabeth Drive Westbound,"-33.87716,150.84332",08:00,27.58620689655172,42,58,1317.0
+Elizabeth Drive Westbound,"-33.87476,150.83832",08:00,0.0,71,71,1317.0
+Elizabeth Drive Westbound,"-33.87603,150.82784",08:00,0.0,68,68,1317.0
+Elizabeth Drive Westbound,"-33.88073,150.81972",08:00,0.0,71,71,1317.0
+Elizabeth Drive Westbound,"-33.88042,150.8097",08:00,0.0,68,68,1317.0
+Elizabeth Drive Westbound,"-33.88076,150.80432",08:00,0.0,67,67,1317.0
+Elizabeth Drive Westbound,"-33.88049,150.79247",08:00,63.63636363636363,24,66,1317.0
+Elizabeth Drive Westbound,"-33.87824,150.78295",08:00,63.63636363636363,24,66,1317.0
+Elizabeth Drive Westbound,"-33.87576,150.76878",08:00,0.0,73,73,1317.0
+Elizabeth Drive Westbound,"-33.87385,150.75439",08:00,0.0,73,73,1317.0
+Elizabeth Drive Westbound,"-33.87348,150.74997",08:00,0.0,73,73,1317.0
+Elizabeth Drive Westbound,"-33.87092,150.73242",08:00,0.0,81,81,1317.0
+Elizabeth Drive Westbound,"-33.86831,150.71664",08:00,21.42857142857143,55,70,1317.0
+Elizabeth Drive Westbound,"-33.86463,150.70826",08:00,0.0,57,57,1317.0
+Elizabeth Drive Westbound,"-33.87716,150.84332",08:15,15.789473684210533,48,57,1317.0
+Elizabeth Drive Westbound,"-33.87476,150.83832",08:15,0.0,71,71,1317.0
+Elizabeth Drive Westbound,"-33.87603,150.82784",08:15,0.0,68,68,1317.0
+Elizabeth Drive Westbound,"-33.88073,150.81972",08:15,0.0,71,71,1317.0
+Elizabeth Drive Westbound,"-33.88042,150.8097",08:15,0.0,68,68,1317.0
+Elizabeth Drive Westbound,"-33.88076,150.80432",08:15,0.0,67,67,1317.0
+Elizabeth Drive Westbound,"-33.88049,150.79247",08:15,0.0,66,66,1317.0
+Elizabeth Drive Westbound,"-33.87824,150.78295",08:15,0.0,66,66,1317.0
+Elizabeth Drive Westbound,"-33.87576,150.76878",08:15,0.0,73,73,1317.0
+Elizabeth Drive Westbound,"-33.87385,150.75439",08:15,0.0,73,73,1317.0
+Elizabeth Drive Westbound,"-33.87348,150.74997",08:15,0.0,73,73,1317.0
+Elizabeth Drive Westbound,"-33.87092,150.73242",08:15,0.0,81,81,1317.0
+Elizabeth Drive Westbound,"-33.86831,150.71664",08:15,0.0,70,70,1317.0
+Elizabeth Drive Westbound,"-33.86463,150.70826",08:15,0.0,57,57,1317.0
+Elizabeth Drive Westbound,"-33.87716,150.84332",08:30,22.80701754385965,44,57,1317.0
+Elizabeth Drive Westbound,"-33.87476,150.83832",08:30,0.0,71,71,1317.0
+Elizabeth Drive Westbound,"-33.87603,150.82784",08:30,0.0,68,68,1317.0
+Elizabeth Drive Westbound,"-33.88073,150.81972",08:30,0.0,71,71,1317.0
+Elizabeth Drive Westbound,"-33.88042,150.8097",08:30,0.0,68,68,1317.0
+Elizabeth Drive Westbound,"-33.88076,150.80432",08:30,0.0,65,65,1317.0
+Elizabeth Drive Westbound,"-33.88049,150.79247",08:30,0.0,66,66,1317.0
+Elizabeth Drive Westbound,"-33.87824,150.78295",08:30,0.0,66,66,1317.0
+Elizabeth Drive Westbound,"-33.87576,150.76878",08:30,0.0,73,73,1317.0
+Elizabeth Drive Westbound,"-33.87385,150.75439",08:30,0.0,73,73,1317.0
+Elizabeth Drive Westbound,"-33.87348,150.74997",08:30,0.0,73,73,1317.0
+Elizabeth Drive Westbound,"-33.87092,150.73242",08:30,0.0,81,81,1317.0
+Elizabeth Drive Westbound,"-33.86831,150.71664",08:30,21.42857142857143,55,70,1317.0
+Elizabeth Drive Westbound,"-33.86463,150.70826",08:30,0.0,57,57,1317.0
+Elizabeth Drive Westbound,"-33.87716,150.84332",08:45,15.789473684210533,48,57,1317.0
+Elizabeth Drive Westbound,"-33.87476,150.83832",08:45,0.0,71,71,1317.0
+Elizabeth Drive Westbound,"-33.87603,150.82784",08:45,0.0,68,68,1317.0
+Elizabeth Drive Westbound,"-33.88073,150.81972",08:45,0.0,71,71,1317.0
+Elizabeth Drive Westbound,"-33.88042,150.8097",08:45,0.0,68,68,1317.0
+Elizabeth Drive Westbound,"-33.88076,150.80432",08:45,0.0,65,65,1317.0
+Elizabeth Drive Westbound,"-33.88049,150.79247",08:45,0.0,66,66,1317.0
+Elizabeth Drive Westbound,"-33.87824,150.78295",08:45,0.0,66,66,1317.0
+Elizabeth Drive Westbound,"-33.87576,150.76878",08:45,0.0,73,73,1317.0
+Elizabeth Drive Westbound,"-33.87385,150.75439",08:45,0.0,73,73,1317.0
+Elizabeth Drive Westbound,"-33.87348,150.74997",08:45,0.0,73,73,1317.0
+Elizabeth Drive Westbound,"-33.87092,150.73242",08:45,0.0,81,81,1317.0
+Elizabeth Drive Westbound,"-33.86831,150.71664",08:45,32.3943661971831,48,71,1317.0
+Elizabeth Drive Westbound,"-33.86463,150.70826",08:45,0.0,57,57,1317.0
+Elizabeth Drive Westbound,"-33.87716,150.84332",09:00,0.0,57,57,809.0
+Elizabeth Drive Westbound,"-33.87476,150.83832",09:00,0.0,71,71,809.0
+Elizabeth Drive Westbound,"-33.87603,150.82784",09:00,0.0,68,68,809.0
+Elizabeth Drive Westbound,"-33.88073,150.81972",09:00,0.0,71,71,809.0
+Elizabeth Drive Westbound,"-33.88042,150.8097",09:00,0.0,68,68,809.0
+Elizabeth Drive Westbound,"-33.88076,150.80432",09:00,0.0,65,65,809.0
+Elizabeth Drive Westbound,"-33.88049,150.79247",09:00,0.0,66,66,809.0
+Elizabeth Drive Westbound,"-33.87824,150.78295",09:00,0.0,66,66,809.0
+Elizabeth Drive Westbound,"-33.87576,150.76878",09:00,0.0,73,73,809.0
+Elizabeth Drive Westbound,"-33.87385,150.75439",09:00,0.0,73,73,809.0
+Elizabeth Drive Westbound,"-33.87348,150.74997",09:00,0.0,73,73,809.0
+Elizabeth Drive Westbound,"-33.87092,150.73242",09:00,0.0,81,81,809.0
+Elizabeth Drive Westbound,"-33.86831,150.71664",09:00,0.0,71,71,809.0
+Elizabeth Drive Westbound,"-33.86463,150.70826",09:00,0.0,57,57,809.0
+Elizabeth Drive Westbound,"-33.87716,150.84332",09:15,0.0,57,57,809.0
+Elizabeth Drive Westbound,"-33.87476,150.83832",09:15,0.0,71,71,809.0
+Elizabeth Drive Westbound,"-33.87603,150.82784",09:15,0.0,68,68,809.0
+Elizabeth Drive Westbound,"-33.88073,150.81972",09:15,0.0,71,71,809.0
+Elizabeth Drive Westbound,"-33.88042,150.8097",09:15,0.0,68,68,809.0
+Elizabeth Drive Westbound,"-33.88076,150.80432",09:15,0.0,65,65,809.0
+Elizabeth Drive Westbound,"-33.88049,150.79247",09:15,0.0,66,66,809.0
+Elizabeth Drive Westbound,"-33.87824,150.78295",09:15,0.0,66,66,809.0
+Elizabeth Drive Westbound,"-33.87576,150.76878",09:15,0.0,73,73,809.0
+Elizabeth Drive Westbound,"-33.87385,150.75439",09:15,0.0,73,73,809.0
+Elizabeth Drive Westbound,"-33.87348,150.74997",09:15,0.0,73,73,809.0
+Elizabeth Drive Westbound,"-33.87092,150.73242",09:15,0.0,81,81,809.0
+Elizabeth Drive Westbound,"-33.86831,150.71664",09:15,0.0,71,71,809.0
+Elizabeth Drive Westbound,"-33.86463,150.70826",09:15,0.0,57,57,809.0
+Elizabeth Drive Westbound,"-33.87716,150.84332",09:30,0.0,57,57,809.0
+Elizabeth Drive Westbound,"-33.87476,150.83832",09:30,0.0,71,71,809.0
+Elizabeth Drive Westbound,"-33.87603,150.82784",09:30,0.0,66,66,809.0
+Elizabeth Drive Westbound,"-33.88073,150.81972",09:30,0.0,71,71,809.0
+Elizabeth Drive Westbound,"-33.88042,150.8097",09:30,0.0,66,66,809.0
+Elizabeth Drive Westbound,"-33.88076,150.80432",09:30,0.0,65,65,809.0
+Elizabeth Drive Westbound,"-33.88049,150.79247",09:30,0.0,66,66,809.0
+Elizabeth Drive Westbound,"-33.87824,150.78295",09:30,0.0,66,66,809.0
+Elizabeth Drive Westbound,"-33.87576,150.76878",09:30,0.0,73,73,809.0
+Elizabeth Drive Westbound,"-33.87385,150.75439",09:30,0.0,73,73,809.0
+Elizabeth Drive Westbound,"-33.87348,150.74997",09:30,0.0,73,73,809.0
+Elizabeth Drive Westbound,"-33.87092,150.73242",09:30,0.0,81,81,809.0
+Elizabeth Drive Westbound,"-33.86831,150.71664",09:30,0.0,70,70,809.0
+Elizabeth Drive Westbound,"-33.86463,150.70826",09:30,0.0,57,57,809.0
+Elizabeth Drive Eastbound,"-33.86547,150.69865",07:00,0.0,49,49,1488.0
+Elizabeth Drive Eastbound,"-33.86461,150.70842",07:00,0.0,75,75,1488.0
+Elizabeth Drive Eastbound,"-33.86851,150.71696",07:00,0.0,65,65,1488.0
+Elizabeth Drive Eastbound,"-33.87107,150.73361",07:00,0.0,79,79,1488.0
+Elizabeth Drive Eastbound,"-33.87338,150.75003",07:00,0.0,75,75,1488.0
+Elizabeth Drive Eastbound,"-33.87418,150.75697",07:00,0.0,73,73,1488.0
+Elizabeth Drive Eastbound,"-33.87592,150.76988",07:00,0.0,75,75,1488.0
+Elizabeth Drive Eastbound,"-33.87935,150.78513",07:00,0.0,67,67,1488.0
+Elizabeth Drive Eastbound,"-33.8807,150.79352",07:00,0.0,61,61,1488.0
+Elizabeth Drive Eastbound,"-33.88072,150.80624",07:00,0.0,67,67,1488.0
+Elizabeth Drive Eastbound,"-33.88042,150.8097",07:00,0.0,69,69,1488.0
+Elizabeth Drive Eastbound,"-33.88073,150.81972",07:00,0.0,71,71,1488.0
+Elizabeth Drive Eastbound,"-33.87603,150.82784",07:00,0.0,69,69,1488.0
+Elizabeth Drive Eastbound,"-33.87476,150.83832",07:00,0.0,71,71,1488.0
+Elizabeth Drive Eastbound,"-33.877,150.84343",07:00,0.0,69,69,1488.0
+Elizabeth Drive Eastbound,"-33.86547,150.69865",07:15,0.0,49,49,1488.0
+Elizabeth Drive Eastbound,"-33.86461,150.70842",07:15,0.0,75,75,1488.0
+Elizabeth Drive Eastbound,"-33.86851,150.71696",07:15,0.0,65,65,1488.0
+Elizabeth Drive Eastbound,"-33.87107,150.73361",07:15,0.0,79,79,1488.0
+Elizabeth Drive Eastbound,"-33.87338,150.75003",07:15,0.0,75,75,1488.0
+Elizabeth Drive Eastbound,"-33.87418,150.75697",07:15,0.0,73,73,1488.0
+Elizabeth Drive Eastbound,"-33.87592,150.76988",07:15,0.0,75,75,1488.0
+Elizabeth Drive Eastbound,"-33.87935,150.78513",07:15,0.0,67,67,1488.0
+Elizabeth Drive Eastbound,"-33.8807,150.79352",07:15,0.0,61,61,1488.0
+Elizabeth Drive Eastbound,"-33.88072,150.80624",07:15,0.0,67,67,1488.0
+Elizabeth Drive Eastbound,"-33.88042,150.8097",07:15,0.0,69,69,1488.0
+Elizabeth Drive Eastbound,"-33.88073,150.81972",07:15,0.0,71,71,1488.0
+Elizabeth Drive Eastbound,"-33.87603,150.82784",07:15,0.0,69,69,1488.0
+Elizabeth Drive Eastbound,"-33.87476,150.83832",07:15,0.0,71,71,1488.0
+Elizabeth Drive Eastbound,"-33.877,150.84343",07:15,0.0,69,69,1488.0
+Elizabeth Drive Eastbound,"-33.86547,150.69865",07:30,0.0,49,49,1488.0
+Elizabeth Drive Eastbound,"-33.86461,150.70842",07:30,0.0,75,75,1488.0
+Elizabeth Drive Eastbound,"-33.86851,150.71696",07:30,31.25,44,64,1488.0
+Elizabeth Drive Eastbound,"-33.87107,150.73361",07:30,0.0,79,79,1488.0
+Elizabeth Drive Eastbound,"-33.87338,150.75003",07:30,0.0,75,75,1488.0
+Elizabeth Drive Eastbound,"-33.87418,150.75697",07:30,0.0,73,73,1488.0
+Elizabeth Drive Eastbound,"-33.87592,150.76988",07:30,0.0,75,75,1488.0
+Elizabeth Drive Eastbound,"-33.87935,150.78513",07:30,0.0,67,67,1488.0
+Elizabeth Drive Eastbound,"-33.8807,150.79352",07:30,0.0,62,62,1488.0
+Elizabeth Drive Eastbound,"-33.88072,150.80624",07:30,0.0,67,67,1488.0
+Elizabeth Drive Eastbound,"-33.88042,150.8097",07:30,0.0,69,69,1488.0
+Elizabeth Drive Eastbound,"-33.88073,150.81972",07:30,0.0,71,71,1488.0
+Elizabeth Drive Eastbound,"-33.87603,150.82784",07:30,0.0,69,69,1488.0
+Elizabeth Drive Eastbound,"-33.87476,150.83832",07:30,0.0,71,71,1488.0
+Elizabeth Drive Eastbound,"-33.877,150.84343",07:30,0.0,69,69,1488.0
+Elizabeth Drive Eastbound,"-33.86547,150.69865",07:45,0.0,49,49,1488.0
+Elizabeth Drive Eastbound,"-33.86461,150.70842",07:45,0.0,75,75,1488.0
+Elizabeth Drive Eastbound,"-33.86851,150.71696",07:45,0.0,64,64,1488.0
+Elizabeth Drive Eastbound,"-33.87107,150.73361",07:45,0.0,79,79,1488.0
+Elizabeth Drive Eastbound,"-33.87338,150.75003",07:45,0.0,75,75,1488.0
+Elizabeth Drive Eastbound,"-33.87418,150.75697",07:45,0.0,73,73,1488.0
+Elizabeth Drive Eastbound,"-33.87592,150.76988",07:45,0.0,75,75,1488.0
+Elizabeth Drive Eastbound,"-33.87935,150.78513",07:45,0.0,68,68,1488.0
+Elizabeth Drive Eastbound,"-33.8807,150.79352",07:45,0.0,62,62,1488.0
+Elizabeth Drive Eastbound,"-33.88072,150.80624",07:45,0.0,67,67,1488.0
+Elizabeth Drive Eastbound,"-33.88042,150.8097",07:45,0.0,69,69,1488.0
+Elizabeth Drive Eastbound,"-33.88073,150.81972",07:45,0.0,71,71,1488.0
+Elizabeth Drive Eastbound,"-33.87603,150.82784",07:45,0.0,69,69,1488.0
+Elizabeth Drive Eastbound,"-33.87476,150.83832",07:45,0.0,71,71,1488.0
+Elizabeth Drive Eastbound,"-33.877,150.84343",07:45,0.0,69,69,1488.0
+Elizabeth Drive Eastbound,"-33.86547,150.69865",08:00,0.0,49,49,1627.0
+Elizabeth Drive Eastbound,"-33.86461,150.70842",08:00,0.0,75,75,1627.0
+Elizabeth Drive Eastbound,"-33.86851,150.71696",08:00,42.1875,37,64,1627.0
+Elizabeth Drive Eastbound,"-33.87107,150.73361",08:00,0.0,79,79,1627.0
+Elizabeth Drive Eastbound,"-33.87338,150.75003",08:00,0.0,75,75,1627.0
+Elizabeth Drive Eastbound,"-33.87418,150.75697",08:00,0.0,73,73,1627.0
+Elizabeth Drive Eastbound,"-33.87592,150.76988",08:00,0.0,75,75,1627.0
+Elizabeth Drive Eastbound,"-33.87935,150.78513",08:00,0.0,67,67,1627.0
+Elizabeth Drive Eastbound,"-33.8807,150.79352",08:00,43.548387096774185,35,62,1627.0
+Elizabeth Drive Eastbound,"-33.88072,150.80624",08:00,0.0,67,67,1627.0
+Elizabeth Drive Eastbound,"-33.88042,150.8097",08:00,0.0,68,68,1627.0
+Elizabeth Drive Eastbound,"-33.88073,150.81972",08:00,0.0,71,71,1627.0
+Elizabeth Drive Eastbound,"-33.87603,150.82784",08:00,0.0,68,68,1627.0
+Elizabeth Drive Eastbound,"-33.87476,150.83832",08:00,0.0,71,71,1627.0
+Elizabeth Drive Eastbound,"-33.877,150.84343",08:00,0.0,68,68,1627.0
+Elizabeth Drive Eastbound,"-33.86547,150.69865",08:15,0.0,49,49,1627.0
+Elizabeth Drive Eastbound,"-33.86461,150.70842",08:15,0.0,75,75,1627.0
+Elizabeth Drive Eastbound,"-33.86851,150.71696",08:15,0.0,65,65,1627.0
+Elizabeth Drive Eastbound,"-33.87107,150.73361",08:15,0.0,79,79,1627.0
+Elizabeth Drive Eastbound,"-33.87338,150.75003",08:15,0.0,75,75,1627.0
+Elizabeth Drive Eastbound,"-33.87418,150.75697",08:15,0.0,73,73,1627.0
+Elizabeth Drive Eastbound,"-33.87592,150.76988",08:15,0.0,75,75,1627.0
+Elizabeth Drive Eastbound,"-33.87935,150.78513",08:15,0.0,67,67,1627.0
+Elizabeth Drive Eastbound,"-33.8807,150.79352",08:15,0.0,62,62,1627.0
+Elizabeth Drive Eastbound,"-33.88072,150.80624",08:15,0.0,67,67,1627.0
+Elizabeth Drive Eastbound,"-33.88042,150.8097",08:15,0.0,68,68,1627.0
+Elizabeth Drive Eastbound,"-33.88073,150.81972",08:15,0.0,71,71,1627.0
+Elizabeth Drive Eastbound,"-33.87603,150.82784",08:15,0.0,68,68,1627.0
+Elizabeth Drive Eastbound,"-33.87476,150.83832",08:15,0.0,71,71,1627.0
+Elizabeth Drive Eastbound,"-33.877,150.84343",08:15,0.0,68,68,1627.0
+Elizabeth Drive Eastbound,"-33.86547,150.69865",08:30,0.0,49,49,1627.0
+Elizabeth Drive Eastbound,"-33.86461,150.70842",08:30,0.0,75,75,1627.0
+Elizabeth Drive Eastbound,"-33.86851,150.71696",08:30,23.4375,49,64,1627.0
+Elizabeth Drive Eastbound,"-33.87107,150.73361",08:30,0.0,79,79,1627.0
+Elizabeth Drive Eastbound,"-33.87338,150.75003",08:30,0.0,75,75,1627.0
+Elizabeth Drive Eastbound,"-33.87418,150.75697",08:30,0.0,73,73,1627.0
+Elizabeth Drive Eastbound,"-33.87592,150.76988",08:30,0.0,75,75,1627.0
+Elizabeth Drive Eastbound,"-33.87935,150.78513",08:30,0.0,67,67,1627.0
+Elizabeth Drive Eastbound,"-33.8807,150.79352",08:30,0.0,62,62,1627.0
+Elizabeth Drive Eastbound,"-33.88072,150.80624",08:30,0.0,65,65,1627.0
+Elizabeth Drive Eastbound,"-33.88042,150.8097",08:30,0.0,68,68,1627.0
+Elizabeth Drive Eastbound,"-33.88073,150.81972",08:30,0.0,71,71,1627.0
+Elizabeth Drive Eastbound,"-33.87603,150.82784",08:30,0.0,68,68,1627.0
+Elizabeth Drive Eastbound,"-33.87476,150.83832",08:30,0.0,71,71,1627.0
+Elizabeth Drive Eastbound,"-33.877,150.84343",08:30,0.0,68,68,1627.0
+Elizabeth Drive Eastbound,"-33.86547,150.69865",08:45,34.693877551020414,32,49,1627.0
+Elizabeth Drive Eastbound,"-33.86461,150.70842",08:45,0.0,75,75,1627.0
+Elizabeth Drive Eastbound,"-33.86851,150.71696",08:45,35.38461538461538,42,65,1627.0
+Elizabeth Drive Eastbound,"-33.87107,150.73361",08:45,0.0,79,79,1627.0
+Elizabeth Drive Eastbound,"-33.87338,150.75003",08:45,0.0,75,75,1627.0
+Elizabeth Drive Eastbound,"-33.87418,150.75697",08:45,0.0,73,73,1627.0
+Elizabeth Drive Eastbound,"-33.87592,150.76988",08:45,0.0,75,75,1627.0
+Elizabeth Drive Eastbound,"-33.87935,150.78513",08:45,0.0,67,67,1627.0
+Elizabeth Drive Eastbound,"-33.8807,150.79352",08:45,0.0,62,62,1627.0
+Elizabeth Drive Eastbound,"-33.88072,150.80624",08:45,0.0,65,65,1627.0
+Elizabeth Drive Eastbound,"-33.88042,150.8097",08:45,0.0,68,68,1627.0
+Elizabeth Drive Eastbound,"-33.88073,150.81972",08:45,0.0,71,71,1627.0
+Elizabeth Drive Eastbound,"-33.87603,150.82784",08:45,0.0,68,68,1627.0
+Elizabeth Drive Eastbound,"-33.87476,150.83832",08:45,0.0,71,71,1627.0
+Elizabeth Drive Eastbound,"-33.877,150.84343",08:45,0.0,68,68,1627.0
+Elizabeth Drive Eastbound,"-33.86547,150.69865",09:00,0.0,48,48,1218.0
+Elizabeth Drive Eastbound,"-33.86461,150.70842",09:00,0.0,75,75,1218.0
+Elizabeth Drive Eastbound,"-33.86851,150.71696",09:00,0.0,65,65,1218.0
+Elizabeth Drive Eastbound,"-33.87107,150.73361",09:00,0.0,79,79,1218.0
+Elizabeth Drive Eastbound,"-33.87338,150.75003",09:00,0.0,75,75,1218.0
+Elizabeth Drive Eastbound,"-33.87418,150.75697",09:00,0.0,73,73,1218.0
+Elizabeth Drive Eastbound,"-33.87592,150.76988",09:00,0.0,75,75,1218.0
+Elizabeth Drive Eastbound,"-33.87935,150.78513",09:00,0.0,67,67,1218.0
+Elizabeth Drive Eastbound,"-33.8807,150.79352",09:00,0.0,62,62,1218.0
+Elizabeth Drive Eastbound,"-33.88072,150.80624",09:00,0.0,65,65,1218.0
+Elizabeth Drive Eastbound,"-33.88042,150.8097",09:00,0.0,68,68,1218.0
+Elizabeth Drive Eastbound,"-33.88073,150.81972",09:00,0.0,71,71,1218.0
+Elizabeth Drive Eastbound,"-33.87603,150.82784",09:00,0.0,68,68,1218.0
+Elizabeth Drive Eastbound,"-33.87476,150.83832",09:00,0.0,71,71,1218.0
+Elizabeth Drive Eastbound,"-33.877,150.84343",09:00,0.0,68,68,1218.0
+Elizabeth Drive Eastbound,"-33.86547,150.69865",09:15,0.0,48,48,1218.0
+Elizabeth Drive Eastbound,"-33.86461,150.70842",09:15,0.0,75,75,1218.0
+Elizabeth Drive Eastbound,"-33.86851,150.71696",09:15,0.0,64,64,1218.0
+Elizabeth Drive Eastbound,"-33.87107,150.73361",09:15,0.0,79,79,1218.0
+Elizabeth Drive Eastbound,"-33.87338,150.75003",09:15,0.0,75,75,1218.0
+Elizabeth Drive Eastbound,"-33.87418,150.75697",09:15,0.0,73,73,1218.0
+Elizabeth Drive Eastbound,"-33.87592,150.76988",09:15,0.0,75,75,1218.0
+Elizabeth Drive Eastbound,"-33.87935,150.78513",09:15,0.0,67,67,1218.0
+Elizabeth Drive Eastbound,"-33.8807,150.79352",09:15,0.0,62,62,1218.0
+Elizabeth Drive Eastbound,"-33.88072,150.80624",09:15,0.0,65,65,1218.0
+Elizabeth Drive Eastbound,"-33.88042,150.8097",09:15,0.0,68,68,1218.0
+Elizabeth Drive Eastbound,"-33.88073,150.81972",09:15,0.0,71,71,1218.0
+Elizabeth Drive Eastbound,"-33.87603,150.82784",09:15,0.0,68,68,1218.0
+Elizabeth Drive Eastbound,"-33.87476,150.83832",09:15,0.0,71,71,1218.0
+Elizabeth Drive Eastbound,"-33.877,150.84343",09:15,0.0,68,68,1218.0
+Elizabeth Drive Eastbound,"-33.86547,150.69865",09:30,52.0,24,50,1218.0
+Elizabeth Drive Eastbound,"-33.86461,150.70842",09:30,0.0,75,75,1218.0
+Elizabeth Drive Eastbound,"-33.86851,150.71696",09:30,0.0,64,64,1218.0
+Elizabeth Drive Eastbound,"-33.87107,150.73361",09:30,0.0,79,79,1218.0
+Elizabeth Drive Eastbound,"-33.87338,150.75003",09:30,0.0,75,75,1218.0
+Elizabeth Drive Eastbound,"-33.87418,150.75697",09:30,0.0,73,73,1218.0
+Elizabeth Drive Eastbound,"-33.87592,150.76988",09:30,0.0,75,75,1218.0
+Elizabeth Drive Eastbound,"-33.87935,150.78513",09:30,0.0,67,67,1218.0
+Elizabeth Drive Eastbound,"-33.8807,150.79352",09:30,0.0,62,62,1218.0
+Elizabeth Drive Eastbound,"-33.88072,150.80624",09:30,0.0,65,65,1218.0
+Elizabeth Drive Eastbound,"-33.88042,150.8097",09:30,0.0,66,66,1218.0
+Elizabeth Drive Eastbound,"-33.88073,150.81972",09:30,0.0,71,71,1218.0
+Elizabeth Drive Eastbound,"-33.87603,150.82784",09:30,0.0,66,66,1218.0
+Elizabeth Drive Eastbound,"-33.87476,150.83832",09:30,0.0,71,71,1218.0
+Elizabeth Drive Eastbound,"-33.877,150.84343",09:30,0.0,66,66,1218.0
+Elizabeth Drive Westbound,"-33.87716,150.84332",07:00,0.0,57,57,1293.0
+Elizabeth Drive Westbound,"-33.87476,150.83832",07:00,0.0,71,71,1293.0
+Elizabeth Drive Westbound,"-33.87603,150.82784",07:00,0.0,69,69,1293.0
+Elizabeth Drive Westbound,"-33.88073,150.81972",07:00,0.0,71,71,1293.0
+Elizabeth Drive Westbound,"-33.88042,150.8097",07:00,0.0,69,69,1293.0
+Elizabeth Drive Westbound,"-33.88076,150.80432",07:00,0.0,67,67,1293.0
+Elizabeth Drive Westbound,"-33.88049,150.79247",07:00,0.0,66,66,1293.0
+Elizabeth Drive Westbound,"-33.87824,150.78295",07:00,0.0,66,66,1293.0
+Elizabeth Drive Westbound,"-33.87576,150.76878",07:00,0.0,73,73,1293.0
+Elizabeth Drive Westbound,"-33.87385,150.75439",07:00,0.0,73,73,1293.0
+Elizabeth Drive Westbound,"-33.87348,150.74997",07:00,0.0,73,73,1293.0
+Elizabeth Drive Westbound,"-33.87092,150.73242",07:00,0.0,81,81,1293.0
+Elizabeth Drive Westbound,"-33.86831,150.71664",07:00,0.0,70,70,1293.0
+Elizabeth Drive Westbound,"-33.86463,150.70826",07:00,0.0,57,57,1293.0
+Elizabeth Drive Westbound,"-33.87716,150.84332",07:15,0.0,57,57,1293.0
+Elizabeth Drive Westbound,"-33.87476,150.83832",07:15,0.0,71,71,1293.0
+Elizabeth Drive Westbound,"-33.87603,150.82784",07:15,0.0,69,69,1293.0
+Elizabeth Drive Westbound,"-33.88073,150.81972",07:15,0.0,71,71,1293.0
+Elizabeth Drive Westbound,"-33.88042,150.8097",07:15,0.0,69,69,1293.0
+Elizabeth Drive Westbound,"-33.88076,150.80432",07:15,0.0,67,67,1293.0
+Elizabeth Drive Westbound,"-33.88049,150.79247",07:15,0.0,66,66,1293.0
+Elizabeth Drive Westbound,"-33.87824,150.78295",07:15,0.0,66,66,1293.0
+Elizabeth Drive Westbound,"-33.87576,150.76878",07:15,0.0,73,73,1293.0
+Elizabeth Drive Westbound,"-33.87385,150.75439",07:15,0.0,73,73,1293.0
+Elizabeth Drive Westbound,"-33.87348,150.74997",07:15,0.0,73,73,1293.0
+Elizabeth Drive Westbound,"-33.87092,150.73242",07:15,0.0,81,81,1293.0
+Elizabeth Drive Westbound,"-33.86831,150.71664",07:15,0.0,71,71,1293.0
+Elizabeth Drive Westbound,"-33.86463,150.70826",07:15,0.0,57,57,1293.0
+Elizabeth Drive Westbound,"-33.87716,150.84332",07:30,14.035087719298245,49,57,1293.0
+Elizabeth Drive Westbound,"-33.87476,150.83832",07:30,0.0,71,71,1293.0
+Elizabeth Drive Westbound,"-33.87603,150.82784",07:30,0.0,69,69,1293.0
+Elizabeth Drive Westbound,"-33.88073,150.81972",07:30,0.0,71,71,1293.0
+Elizabeth Drive Westbound,"-33.88042,150.8097",07:30,0.0,69,69,1293.0
+Elizabeth Drive Westbound,"-33.88076,150.80432",07:30,0.0,67,67,1293.0
+Elizabeth Drive Westbound,"-33.88049,150.79247",07:30,16.666666666666664,55,66,1293.0
+Elizabeth Drive Westbound,"-33.87824,150.78295",07:30,16.666666666666664,55,66,1293.0
+Elizabeth Drive Westbound,"-33.87576,150.76878",07:30,0.0,73,73,1293.0
+Elizabeth Drive Westbound,"-33.87385,150.75439",07:30,0.0,73,73,1293.0
+Elizabeth Drive Westbound,"-33.87348,150.74997",07:30,0.0,73,73,1293.0
+Elizabeth Drive Westbound,"-33.87092,150.73242",07:30,0.0,81,81,1293.0
+Elizabeth Drive Westbound,"-33.86831,150.71664",07:30,0.0,71,71,1293.0
+Elizabeth Drive Westbound,"-33.86463,150.70826",07:30,0.0,57,57,1293.0
+Elizabeth Drive Westbound,"-33.87716,150.84332",07:45,17.24137931034483,48,58,1293.0
+Elizabeth Drive Westbound,"-33.87476,150.83832",07:45,0.0,71,71,1293.0
+Elizabeth Drive Westbound,"-33.87603,150.82784",07:45,0.0,69,69,1293.0
+Elizabeth Drive Westbound,"-33.88073,150.81972",07:45,0.0,71,71,1293.0
+Elizabeth Drive Westbound,"-33.88042,150.8097",07:45,0.0,69,69,1293.0
+Elizabeth Drive Westbound,"-33.88076,150.80432",07:45,0.0,67,67,1293.0
+Elizabeth Drive Westbound,"-33.88049,150.79247",07:45,0.0,66,66,1293.0
+Elizabeth Drive Westbound,"-33.87824,150.78295",07:45,0.0,66,66,1293.0
+Elizabeth Drive Westbound,"-33.87576,150.76878",07:45,0.0,73,73,1293.0
+Elizabeth Drive Westbound,"-33.87385,150.75439",07:45,0.0,73,73,1293.0
+Elizabeth Drive Westbound,"-33.87348,150.74997",07:45,0.0,73,73,1293.0
+Elizabeth Drive Westbound,"-33.87092,150.73242",07:45,0.0,81,81,1293.0
+Elizabeth Drive Westbound,"-33.86831,150.71664",07:45,0.0,71,71,1293.0
+Elizabeth Drive Westbound,"-33.86463,150.70826",07:45,0.0,57,57,1293.0
+Elizabeth Drive Westbound,"-33.87716,150.84332",08:00,27.58620689655172,42,58,1503.0
+Elizabeth Drive Westbound,"-33.87476,150.83832",08:00,0.0,71,71,1503.0
+Elizabeth Drive Westbound,"-33.87603,150.82784",08:00,0.0,68,68,1503.0
+Elizabeth Drive Westbound,"-33.88073,150.81972",08:00,0.0,71,71,1503.0
+Elizabeth Drive Westbound,"-33.88042,150.8097",08:00,0.0,68,68,1503.0
+Elizabeth Drive Westbound,"-33.88076,150.80432",08:00,0.0,67,67,1503.0
+Elizabeth Drive Westbound,"-33.88049,150.79247",08:00,63.63636363636363,24,66,1503.0
+Elizabeth Drive Westbound,"-33.87824,150.78295",08:00,63.63636363636363,24,66,1503.0
+Elizabeth Drive Westbound,"-33.87576,150.76878",08:00,0.0,73,73,1503.0
+Elizabeth Drive Westbound,"-33.87385,150.75439",08:00,0.0,73,73,1503.0
+Elizabeth Drive Westbound,"-33.87348,150.74997",08:00,0.0,73,73,1503.0
+Elizabeth Drive Westbound,"-33.87092,150.73242",08:00,0.0,81,81,1503.0
+Elizabeth Drive Westbound,"-33.86831,150.71664",08:00,21.42857142857143,55,70,1503.0
+Elizabeth Drive Westbound,"-33.86463,150.70826",08:00,0.0,57,57,1503.0
+Elizabeth Drive Westbound,"-33.87716,150.84332",08:15,15.789473684210533,48,57,1503.0
+Elizabeth Drive Westbound,"-33.87476,150.83832",08:15,0.0,71,71,1503.0
+Elizabeth Drive Westbound,"-33.87603,150.82784",08:15,0.0,68,68,1503.0
+Elizabeth Drive Westbound,"-33.88073,150.81972",08:15,0.0,71,71,1503.0
+Elizabeth Drive Westbound,"-33.88042,150.8097",08:15,0.0,68,68,1503.0
+Elizabeth Drive Westbound,"-33.88076,150.80432",08:15,0.0,67,67,1503.0
+Elizabeth Drive Westbound,"-33.88049,150.79247",08:15,0.0,66,66,1503.0
+Elizabeth Drive Westbound,"-33.87824,150.78295",08:15,0.0,66,66,1503.0
+Elizabeth Drive Westbound,"-33.87576,150.76878",08:15,0.0,73,73,1503.0
+Elizabeth Drive Westbound,"-33.87385,150.75439",08:15,0.0,73,73,1503.0
+Elizabeth Drive Westbound,"-33.87348,150.74997",08:15,0.0,73,73,1503.0
+Elizabeth Drive Westbound,"-33.87092,150.73242",08:15,0.0,81,81,1503.0
+Elizabeth Drive Westbound,"-33.86831,150.71664",08:15,0.0,70,70,1503.0
+Elizabeth Drive Westbound,"-33.86463,150.70826",08:15,0.0,57,57,1503.0
+Elizabeth Drive Westbound,"-33.87716,150.84332",08:30,22.80701754385965,44,57,1503.0
+Elizabeth Drive Westbound,"-33.87476,150.83832",08:30,0.0,71,71,1503.0
+Elizabeth Drive Westbound,"-33.87603,150.82784",08:30,0.0,68,68,1503.0
+Elizabeth Drive Westbound,"-33.88073,150.81972",08:30,0.0,71,71,1503.0
+Elizabeth Drive Westbound,"-33.88042,150.8097",08:30,0.0,68,68,1503.0
+Elizabeth Drive Westbound,"-33.88076,150.80432",08:30,0.0,65,65,1503.0
+Elizabeth Drive Westbound,"-33.88049,150.79247",08:30,0.0,66,66,1503.0
+Elizabeth Drive Westbound,"-33.87824,150.78295",08:30,0.0,66,66,1503.0
+Elizabeth Drive Westbound,"-33.87576,150.76878",08:30,0.0,73,73,1503.0
+Elizabeth Drive Westbound,"-33.87385,150.75439",08:30,0.0,73,73,1503.0
+Elizabeth Drive Westbound,"-33.87348,150.74997",08:30,0.0,73,73,1503.0
+Elizabeth Drive Westbound,"-33.87092,150.73242",08:30,0.0,81,81,1503.0
+Elizabeth Drive Westbound,"-33.86831,150.71664",08:30,21.42857142857143,55,70,1503.0
+Elizabeth Drive Westbound,"-33.86463,150.70826",08:30,0.0,57,57,1503.0
+Elizabeth Drive Westbound,"-33.87716,150.84332",08:45,15.789473684210533,48,57,1503.0
+Elizabeth Drive Westbound,"-33.87476,150.83832",08:45,0.0,71,71,1503.0
+Elizabeth Drive Westbound,"-33.87603,150.82784",08:45,0.0,68,68,1503.0
+Elizabeth Drive Westbound,"-33.88073,150.81972",08:45,0.0,71,71,1503.0
+Elizabeth Drive Westbound,"-33.88042,150.8097",08:45,0.0,68,68,1503.0
+Elizabeth Drive Westbound,"-33.88076,150.80432",08:45,0.0,65,65,1503.0
+Elizabeth Drive Westbound,"-33.88049,150.79247",08:45,0.0,66,66,1503.0
+Elizabeth Drive Westbound,"-33.87824,150.78295",08:45,0.0,66,66,1503.0
+Elizabeth Drive Westbound,"-33.87576,150.76878",08:45,0.0,73,73,1503.0
+Elizabeth Drive Westbound,"-33.87385,150.75439",08:45,0.0,73,73,1503.0
+Elizabeth Drive Westbound,"-33.87348,150.74997",08:45,0.0,73,73,1503.0
+Elizabeth Drive Westbound,"-33.87092,150.73242",08:45,0.0,81,81,1503.0
+Elizabeth Drive Westbound,"-33.86831,150.71664",08:45,32.3943661971831,48,71,1503.0
+Elizabeth Drive Westbound,"-33.86463,150.70826",08:45,0.0,57,57,1503.0
+Elizabeth Drive Westbound,"-33.87716,150.84332",09:00,0.0,57,57,1011.0
+Elizabeth Drive Westbound,"-33.87476,150.83832",09:00,0.0,71,71,1011.0
+Elizabeth Drive Westbound,"-33.87603,150.82784",09:00,0.0,68,68,1011.0
+Elizabeth Drive Westbound,"-33.88073,150.81972",09:00,0.0,71,71,1011.0
+Elizabeth Drive Westbound,"-33.88042,150.8097",09:00,0.0,68,68,1011.0
+Elizabeth Drive Westbound,"-33.88076,150.80432",09:00,0.0,65,65,1011.0
+Elizabeth Drive Westbound,"-33.88049,150.79247",09:00,0.0,66,66,1011.0
+Elizabeth Drive Westbound,"-33.87824,150.78295",09:00,0.0,66,66,1011.0
+Elizabeth Drive Westbound,"-33.87576,150.76878",09:00,0.0,73,73,1011.0
+Elizabeth Drive Westbound,"-33.87385,150.75439",09:00,0.0,73,73,1011.0
+Elizabeth Drive Westbound,"-33.87348,150.74997",09:00,0.0,73,73,1011.0
+Elizabeth Drive Westbound,"-33.87092,150.73242",09:00,0.0,81,81,1011.0
+Elizabeth Drive Westbound,"-33.86831,150.71664",09:00,0.0,71,71,1011.0
+Elizabeth Drive Westbound,"-33.86463,150.70826",09:00,0.0,57,57,1011.0
+Elizabeth Drive Westbound,"-33.87716,150.84332",09:15,0.0,57,57,1011.0
+Elizabeth Drive Westbound,"-33.87476,150.83832",09:15,0.0,71,71,1011.0
+Elizabeth Drive Westbound,"-33.87603,150.82784",09:15,0.0,68,68,1011.0
+Elizabeth Drive Westbound,"-33.88073,150.81972",09:15,0.0,71,71,1011.0
+Elizabeth Drive Westbound,"-33.88042,150.8097",09:15,0.0,68,68,1011.0
+Elizabeth Drive Westbound,"-33.88076,150.80432",09:15,0.0,65,65,1011.0
+Elizabeth Drive Westbound,"-33.88049,150.79247",09:15,0.0,66,66,1011.0
+Elizabeth Drive Westbound,"-33.87824,150.78295",09:15,0.0,66,66,1011.0
+Elizabeth Drive Westbound,"-33.87576,150.76878",09:15,0.0,73,73,1011.0
+Elizabeth Drive Westbound,"-33.87385,150.75439",09:15,0.0,73,73,1011.0
+Elizabeth Drive Westbound,"-33.87348,150.74997",09:15,0.0,73,73,1011.0
+Elizabeth Drive Westbound,"-33.87092,150.73242",09:15,0.0,81,81,1011.0
+Elizabeth Drive Westbound,"-33.86831,150.71664",09:15,0.0,71,71,1011.0
+Elizabeth Drive Westbound,"-33.86463,150.70826",09:15,0.0,57,57,1011.0
+Elizabeth Drive Westbound,"-33.87716,150.84332",09:30,0.0,57,57,1011.0
+Elizabeth Drive Westbound,"-33.87476,150.83832",09:30,0.0,71,71,1011.0
+Elizabeth Drive Westbound,"-33.87603,150.82784",09:30,0.0,66,66,1011.0
+Elizabeth Drive Westbound,"-33.88073,150.81972",09:30,0.0,71,71,1011.0
+Elizabeth Drive Westbound,"-33.88042,150.8097",09:30,0.0,66,66,1011.0
+Elizabeth Drive Westbound,"-33.88076,150.80432",09:30,0.0,65,65,1011.0
+Elizabeth Drive Westbound,"-33.88049,150.79247",09:30,0.0,66,66,1011.0
+Elizabeth Drive Westbound,"-33.87824,150.78295",09:30,0.0,66,66,1011.0
+Elizabeth Drive Westbound,"-33.87576,150.76878",09:30,0.0,73,73,1011.0
+Elizabeth Drive Westbound,"-33.87385,150.75439",09:30,0.0,73,73,1011.0
+Elizabeth Drive Westbound,"-33.87348,150.74997",09:30,0.0,73,73,1011.0
+Elizabeth Drive Westbound,"-33.87092,150.73242",09:30,0.0,81,81,1011.0
+Elizabeth Drive Westbound,"-33.86831,150.71664",09:30,0.0,70,70,1011.0
+Elizabeth Drive Westbound,"-33.86463,150.70826",09:30,0.0,57,57,1011.0
+Sunnyholt Road Northbound,"-33.77026,150.91197",07:00,0.0,35,35,506
+Sunnyholt Road Northbound,"-33.76497,150.91281",07:00,0.0,33,33,506
+Sunnyholt Road Northbound,"-33.75653,150.91455",07:00,0.0,56,56,506
+Sunnyholt Road Northbound,"-33.75087,150.91567",07:00,13.953488372093029,37,43,506
+Sunnyholt Road Northbound,"-33.7427,150.91713",07:00,59.18367346938776,20,49,506
+Sunnyholt Road Northbound,"-33.73711,150.9184",07:00,0.0,59,59,506
+Sunnyholt Road Northbound,"-33.7289,150.92255",07:00,0.0,49,49,506
+Sunnyholt Road Northbound,"-33.72465,150.92839",07:00,0.0,65,65,506
+Sunnyholt Road Northbound,"-33.72076,150.93618",07:00,28.57142857142857,20,28,506
+Sunnyholt Road Northbound,"-33.77026,150.91197",07:15,0.0,35,35,506
+Sunnyholt Road Northbound,"-33.76497,150.91281",07:15,28.125,23,32,506
+Sunnyholt Road Northbound,"-33.75653,150.91455",07:15,0.0,55,55,506
+Sunnyholt Road Northbound,"-33.75087,150.91567",07:15,0.0,42,42,506
+Sunnyholt Road Northbound,"-33.7427,150.91713",07:15,28.57142857142857,35,49,506
+Sunnyholt Road Northbound,"-33.73711,150.9184",07:15,0.0,59,59,506
+Sunnyholt Road Northbound,"-33.7289,150.92255",07:15,0.0,49,49,506
+Sunnyholt Road Northbound,"-33.72465,150.92839",07:15,0.0,66,66,506
+Sunnyholt Road Northbound,"-33.72076,150.93618",07:15,20.68965517241379,23,29,506
+Sunnyholt Road Northbound,"-33.77026,150.91197",07:30,17.14285714285714,29,35,506
+Sunnyholt Road Northbound,"-33.76497,150.91281",07:30,24.24242424242424,25,33,506
+Sunnyholt Road Northbound,"-33.75653,150.91455",07:30,33.92857142857143,37,56,506
+Sunnyholt Road Northbound,"-33.75087,150.91567",07:30,0.0,43,43,506
+Sunnyholt Road Northbound,"-33.7427,150.91713",07:30,31.91489361702128,32,47,506
+Sunnyholt Road Northbound,"-33.73711,150.9184",07:30,0.0,59,59,506
+Sunnyholt Road Northbound,"-33.7289,150.92255",07:30,0.0,50,50,506
+Sunnyholt Road Northbound,"-33.72465,150.92839",07:30,0.0,66,66,506
+Sunnyholt Road Northbound,"-33.72076,150.93618",07:30,42.85714285714286,16,28,506
+Sunnyholt Road Northbound,"-33.77026,150.91197",07:45,31.428571428571427,24,35,506
+Sunnyholt Road Northbound,"-33.76497,150.91281",07:45,28.125,23,32,506
+Sunnyholt Road Northbound,"-33.75653,150.91455",07:45,0.0,56,56,506
+Sunnyholt Road Northbound,"-33.75087,150.91567",07:45,16.279069767441857,36,43,506
+Sunnyholt Road Northbound,"-33.7427,150.91713",07:45,0.0,49,49,506
+Sunnyholt Road Northbound,"-33.73711,150.9184",07:45,43.333333333333336,34,60,506
+Sunnyholt Road Northbound,"-33.7289,150.92255",07:45,24.0,38,50,506
+Sunnyholt Road Northbound,"-33.72465,150.92839",07:45,0.0,66,66,506
+Sunnyholt Road Northbound,"-33.72076,150.93618",07:45,73.07692307692308,7,26,506
+Sunnyholt Road Northbound,"-33.77026,150.91197",08:00,38.23529411764706,21,34,523
+Sunnyholt Road Northbound,"-33.76497,150.91281",08:00,56.25,14,32,523
+Sunnyholt Road Northbound,"-33.75653,150.91455",08:00,0.0,56,56,523
+Sunnyholt Road Northbound,"-33.75087,150.91567",08:00,16.279069767441857,36,43,523
+Sunnyholt Road Northbound,"-33.7427,150.91713",08:00,28.57142857142857,35,49,523
+Sunnyholt Road Northbound,"-33.73711,150.9184",08:00,0.0,60,60,523
+Sunnyholt Road Northbound,"-33.7289,150.92255",08:00,42.85714285714286,28,49,523
+Sunnyholt Road Northbound,"-33.72465,150.92839",08:00,0.0,66,66,523
+Sunnyholt Road Northbound,"-33.72076,150.93618",08:00,44.82758620689656,16,29,523
+Sunnyholt Road Northbound,"-33.77026,150.91197",08:15,52.94117647058824,16,34,523
+Sunnyholt Road Northbound,"-33.76497,150.91281",08:15,56.25,14,32,523
+Sunnyholt Road Northbound,"-33.75653,150.91455",08:15,41.07142857142857,33,56,523
+Sunnyholt Road Northbound,"-33.75087,150.91567",08:15,18.6046511627907,35,43,523
+Sunnyholt Road Northbound,"-33.7427,150.91713",08:15,36.17021276595744,30,47,523
+Sunnyholt Road Northbound,"-33.73711,150.9184",08:15,31.666666666666664,41,60,523
+Sunnyholt Road Northbound,"-33.7289,150.92255",08:15,48.97959183673469,25,49,523
+Sunnyholt Road Northbound,"-33.72465,150.92839",08:15,0.0,66,66,523
+Sunnyholt Road Northbound,"-33.72076,150.93618",08:15,62.06896551724138,11,29,523
+Sunnyholt Road Northbound,"-33.77026,150.91197",08:30,42.85714285714286,20,35,523
+Sunnyholt Road Northbound,"-33.76497,150.91281",08:30,48.48484848484848,17,33,523
+Sunnyholt Road Northbound,"-33.75653,150.91455",08:30,25.92592592592593,40,54,523
+Sunnyholt Road Northbound,"-33.75087,150.91567",08:30,30.952380952380956,29,42,523
+Sunnyholt Road Northbound,"-33.7427,150.91713",08:30,34.693877551020414,32,49,523
+Sunnyholt Road Northbound,"-33.73711,150.9184",08:30,25.0,45,60,523
+Sunnyholt Road Northbound,"-33.7289,150.92255",08:30,59.18367346938776,20,49,523
+Sunnyholt Road Northbound,"-33.72465,150.92839",08:30,0.0,66,66,523
+Sunnyholt Road Northbound,"-33.72076,150.93618",08:30,69.23076923076923,8,26,523
+Sunnyholt Road Northbound,"-33.77026,150.91197",08:45,37.142857142857146,22,35,523
+Sunnyholt Road Northbound,"-33.76497,150.91281",08:45,64.70588235294117,12,34,523
+Sunnyholt Road Northbound,"-33.75653,150.91455",08:45,0.0,56,56,523
+Sunnyholt Road Northbound,"-33.75087,150.91567",08:45,0.0,42,42,523
+Sunnyholt Road Northbound,"-33.7427,150.91713",08:45,0.0,49,49,523
+Sunnyholt Road Northbound,"-33.73711,150.9184",08:45,0.0,60,60,523
+Sunnyholt Road Northbound,"-33.7289,150.92255",08:45,42.85714285714286,28,49,523
+Sunnyholt Road Northbound,"-33.72465,150.92839",08:45,15.384615384615383,55,65,523
+Sunnyholt Road Northbound,"-33.72076,150.93618",08:45,55.172413793103445,13,29,523
+Sunnyholt Road Northbound,"-33.77026,150.91197",09:00,47.05882352941176,18,34,472
+Sunnyholt Road Northbound,"-33.76497,150.91281",09:00,50.0,16,32,472
+Sunnyholt Road Northbound,"-33.75653,150.91455",09:00,23.636363636363637,42,55,472
+Sunnyholt Road Northbound,"-33.75087,150.91567",09:00,29.268292682926838,29,41,472
+Sunnyholt Road Northbound,"-33.7427,150.91713",09:00,32.6530612244898,33,49,472
+Sunnyholt Road Northbound,"-33.73711,150.9184",09:00,0.0,60,60,472
+Sunnyholt Road Northbound,"-33.7289,150.92255",09:00,36.0,32,50,472
+Sunnyholt Road Northbound,"-33.72465,150.92839",09:00,0.0,66,66,472
+Sunnyholt Road Northbound,"-33.72076,150.93618",09:00,65.51724137931035,10,29,472
+Sunnyholt Road Northbound,"-33.77026,150.91197",09:15,54.28571428571429,16,35,472
+Sunnyholt Road Northbound,"-33.76497,150.91281",09:15,34.375,21,32,472
+Sunnyholt Road Northbound,"-33.75653,150.91455",09:15,0.0,55,55,472
+Sunnyholt Road Northbound,"-33.75087,150.91567",09:15,0.0,42,42,472
+Sunnyholt Road Northbound,"-33.7427,150.91713",09:15,27.6595744680851,34,47,472
+Sunnyholt Road Northbound,"-33.73711,150.9184",09:15,23.72881355932204,45,59,472
+Sunnyholt Road Northbound,"-33.7289,150.92255",09:15,54.0,23,50,472
+Sunnyholt Road Northbound,"-33.72465,150.92839",09:15,0.0,66,66,472
+Sunnyholt Road Northbound,"-33.72076,150.93618",09:15,55.172413793103445,13,29,472
+Sunnyholt Road Northbound,"-33.77026,150.91197",09:30,52.94117647058824,16,34,472
+Sunnyholt Road Northbound,"-33.76497,150.91281",09:30,43.75,18,32,472
+Sunnyholt Road Northbound,"-33.75653,150.91455",09:30,0.0,56,56,472
+Sunnyholt Road Northbound,"-33.75087,150.91567",09:30,19.512195121951216,33,41,472
+Sunnyholt Road Northbound,"-33.7427,150.91713",09:30,40.42553191489362,28,47,472
+Sunnyholt Road Northbound,"-33.73711,150.9184",09:30,0.0,59,59,472
+Sunnyholt Road Northbound,"-33.7289,150.92255",09:30,0.0,50,50,472
+Sunnyholt Road Northbound,"-33.72465,150.92839",09:30,0.0,66,66,472
+Sunnyholt Road Northbound,"-33.72076,150.93618",09:30,34.48275862068966,19,29,472
+Sunnyholt Road Northbound,"-33.77026,150.91197",09:45,42.85714285714286,20,35,472
+Sunnyholt Road Northbound,"-33.76497,150.91281",09:45,27.27272727272727,24,33,472
+Sunnyholt Road Northbound,"-33.75653,150.91455",09:45,0.0,55,55,472
+Sunnyholt Road Northbound,"-33.75087,150.91567",09:45,33.333333333333336,28,42,472
+Sunnyholt Road Northbound,"-33.7427,150.91713",09:45,26.53061224489796,36,49,472
+Sunnyholt Road Northbound,"-33.73711,150.9184",09:45,0.0,60,60,472
+Sunnyholt Road Northbound,"-33.7289,150.92255",09:45,50.0,25,50,472
+Sunnyholt Road Northbound,"-33.72465,150.92839",09:45,0.0,66,66,472
+Sunnyholt Road Northbound,"-33.72076,150.93618",09:45,50.0,14,28,472
+Sunnyholt Road Southbound,"-33.72173,150.93187",07:00,54.6875,29,64,1231
+Sunnyholt Road Southbound,"-33.72803,150.924",07:00,8.92857142857143,51,56,1231
+Sunnyholt Road Southbound,"-33.73481,150.91967",07:00,31.11111111111111,31,45,1231
+Sunnyholt Road Southbound,"-33.74013,150.9176",07:00,45.45454545454546,24,44,1231
+Sunnyholt Road Southbound,"-33.74782,150.91641",07:00,0.0,56,56,1231
+Sunnyholt Road Southbound,"-33.75459,150.91503",07:00,0.0,55,55,1231
+Sunnyholt Road Southbound,"-33.76263,150.91352",07:00,0.0,44,44,1231
+Sunnyholt Road Southbound,"-33.76971,150.9122",07:00,0.0,44,44,1231
+Sunnyholt Road Southbound,"-33.72173,150.93187",07:15,0.0,63,63,1231
+Sunnyholt Road Southbound,"-33.72803,150.924",07:15,0.0,57,57,1231
+Sunnyholt Road Southbound,"-33.73481,150.91967",07:15,0.0,45,45,1231
+Sunnyholt Road Southbound,"-33.74013,150.9176",07:15,22.72727272727273,34,44,1231
+Sunnyholt Road Southbound,"-33.74782,150.91641",07:15,0.0,55,55,1231
+Sunnyholt Road Southbound,"-33.75459,150.91503",07:15,23.214285714285708,43,56,1231
+Sunnyholt Road Southbound,"-33.76263,150.91352",07:15,15.909090909090908,37,44,1231
+Sunnyholt Road Southbound,"-33.76971,150.9122",07:15,15.909090909090908,37,44,1231
+Sunnyholt Road Southbound,"-33.72173,150.93187",07:30,0.0,63,63,1231
+Sunnyholt Road Southbound,"-33.72803,150.924",07:30,0.0,56,56,1231
+Sunnyholt Road Southbound,"-33.73481,150.91967",07:30,22.72727272727273,34,44,1231
+Sunnyholt Road Southbound,"-33.74013,150.9176",07:30,40.90909090909091,26,44,1231
+Sunnyholt Road Southbound,"-33.74782,150.91641",07:30,0.0,55,55,1231
+Sunnyholt Road Southbound,"-33.75459,150.91503",07:30,29.09090909090909,39,55,1231
+Sunnyholt Road Southbound,"-33.76263,150.91352",07:30,23.25581395348837,33,43,1231
+Sunnyholt Road Southbound,"-33.76971,150.9122",07:30,23.25581395348837,33,43,1231
+Sunnyholt Road Southbound,"-33.72173,150.93187",07:45,0.0,62,62,1231
+Sunnyholt Road Southbound,"-33.72803,150.924",07:45,0.0,57,57,1231
+Sunnyholt Road Southbound,"-33.73481,150.91967",07:45,36.36363636363637,28,44,1231
+Sunnyholt Road Southbound,"-33.74013,150.9176",07:45,0.0,43,43,1231
+Sunnyholt Road Southbound,"-33.74782,150.91641",07:45,23.636363636363637,42,55,1231
+Sunnyholt Road Southbound,"-33.75459,150.91503",07:45,0.0,56,56,1231
+Sunnyholt Road Southbound,"-33.76263,150.91352",07:45,31.818181818181824,30,44,1231
+Sunnyholt Road Southbound,"-33.76971,150.9122",07:45,31.818181818181824,30,44,1231
+Sunnyholt Road Southbound,"-33.72173,150.93187",08:00,0.0,63,63,1290
+Sunnyholt Road Southbound,"-33.72803,150.924",08:00,19.298245614035093,46,57,1290
+Sunnyholt Road Southbound,"-33.73481,150.91967",08:00,34.09090909090909,29,44,1290
+Sunnyholt Road Southbound,"-33.74013,150.9176",08:00,30.23255813953488,30,43,1290
+Sunnyholt Road Southbound,"-33.74782,150.91641",08:00,0.0,55,55,1290
+Sunnyholt Road Southbound,"-33.75459,150.91503",08:00,0.0,56,56,1290
+Sunnyholt Road Southbound,"-33.76263,150.91352",08:00,40.90909090909091,26,44,1290
+Sunnyholt Road Southbound,"-33.76971,150.9122",08:00,40.90909090909091,26,44,1290
+Sunnyholt Road Southbound,"-33.72173,150.93187",08:15,58.730158730158735,26,63,1290
+Sunnyholt Road Southbound,"-33.72803,150.924",08:15,0.0,57,57,1290
+Sunnyholt Road Southbound,"-33.73481,150.91967",08:15,42.22222222222223,26,45,1290
+Sunnyholt Road Southbound,"-33.74013,150.9176",08:15,48.837209302325576,22,43,1290
+Sunnyholt Road Southbound,"-33.74782,150.91641",08:15,34.54545454545455,36,55,1290
+Sunnyholt Road Southbound,"-33.75459,150.91503",08:15,0.0,56,56,1290
+Sunnyholt Road Southbound,"-33.76263,150.91352",08:15,47.72727272727273,23,44,1290
+Sunnyholt Road Southbound,"-33.76971,150.9122",08:15,48.88888888888889,23,45,1290
+Sunnyholt Road Southbound,"-33.72173,150.93187",08:30,39.68253968253968,38,63,1290
+Sunnyholt Road Southbound,"-33.72803,150.924",08:30,0.0,57,57,1290
+Sunnyholt Road Southbound,"-33.73481,150.91967",08:30,17.391304347826086,38,46,1290
+Sunnyholt Road Southbound,"-33.74013,150.9176",08:30,40.90909090909091,26,44,1290
+Sunnyholt Road Southbound,"-33.74782,150.91641",08:30,0.0,55,55,1290
+Sunnyholt Road Southbound,"-33.75459,150.91503",08:30,44.44444444444444,30,54,1290
+Sunnyholt Road Southbound,"-33.76263,150.91352",08:30,59.09090909090908,18,44,1290
+Sunnyholt Road Southbound,"-33.76971,150.9122",08:30,59.09090909090908,18,44,1290
+Sunnyholt Road Southbound,"-33.72173,150.93187",08:45,0.0,63,63,1290
+Sunnyholt Road Southbound,"-33.72803,150.924",08:45,21.052631578947366,45,57,1290
+Sunnyholt Road Southbound,"-33.73481,150.91967",08:45,19.14893617021277,38,47,1290
+Sunnyholt Road Southbound,"-33.74013,150.9176",08:45,34.88372093023256,28,43,1290
+Sunnyholt Road Southbound,"-33.74782,150.91641",08:45,0.0,54,54,1290
+Sunnyholt Road Southbound,"-33.75459,150.91503",08:45,34.54545454545455,36,55,1290
+Sunnyholt Road Southbound,"-33.76263,150.91352",08:45,59.09090909090908,18,44,1290
+Sunnyholt Road Southbound,"-33.76971,150.9122",08:45,59.09090909090908,18,44,1290
+Sunnyholt Road Southbound,"-33.72173,150.93187",09:00,23.809523809523814,48,63,1214
+Sunnyholt Road Southbound,"-33.72803,150.924",09:00,0.0,56,56,1214
+Sunnyholt Road Southbound,"-33.73481,150.91967",09:00,42.22222222222223,26,45,1214
+Sunnyholt Road Southbound,"-33.74013,150.9176",09:00,22.72727272727273,34,44,1214
+Sunnyholt Road Southbound,"-33.74782,150.91641",09:00,0.0,56,56,1214
+Sunnyholt Road Southbound,"-33.75459,150.91503",09:00,19.64285714285714,45,56,1214
+Sunnyholt Road Southbound,"-33.76263,150.91352",09:00,48.837209302325576,22,43,1214
+Sunnyholt Road Southbound,"-33.76971,150.9122",09:00,48.837209302325576,22,43,1214
+Sunnyholt Road Southbound,"-33.72173,150.93187",09:15,25.806451612903224,46,62,1214
+Sunnyholt Road Southbound,"-33.72803,150.924",09:15,0.0,57,57,1214
+Sunnyholt Road Southbound,"-33.73481,150.91967",09:15,37.77777777777778,28,45,1214
+Sunnyholt Road Southbound,"-33.74013,150.9176",09:15,25.0,33,44,1214
+Sunnyholt Road Southbound,"-33.74782,150.91641",09:15,0.0,56,56,1214
+Sunnyholt Road Southbound,"-33.75459,150.91503",09:15,21.818181818181813,43,55,1214
+Sunnyholt Road Southbound,"-33.76263,150.91352",09:15,48.837209302325576,22,43,1214
+Sunnyholt Road Southbound,"-33.76971,150.9122",09:15,48.837209302325576,22,43,1214
+Sunnyholt Road Southbound,"-33.72173,150.93187",09:30,30.15873015873016,44,63,1214
+Sunnyholt Road Southbound,"-33.72803,150.924",09:30,0.0,57,57,1214
+Sunnyholt Road Southbound,"-33.73481,150.91967",09:30,0.0,45,45,1214
+Sunnyholt Road Southbound,"-33.74013,150.9176",09:30,0.0,43,43,1214
+Sunnyholt Road Southbound,"-33.74782,150.91641",09:30,0.0,55,55,1214
+Sunnyholt Road Southbound,"-33.75459,150.91503",09:30,18.181818181818176,45,55,1214
+Sunnyholt Road Southbound,"-33.76263,150.91352",09:30,43.18181818181818,25,44,1214
+Sunnyholt Road Southbound,"-33.76971,150.9122",09:30,43.18181818181818,25,44,1214
+Sunnyholt Road Southbound,"-33.72173,150.93187",09:45,33.333333333333336,42,63,1214
+Sunnyholt Road Southbound,"-33.72803,150.924",09:45,0.0,56,56,1214
+Sunnyholt Road Southbound,"-33.73481,150.91967",09:45,0.0,44,44,1214
+Sunnyholt Road Southbound,"-33.74013,150.9176",09:45,23.25581395348837,33,43,1214
+Sunnyholt Road Southbound,"-33.74782,150.91641",09:45,0.0,56,56,1214
+Sunnyholt Road Southbound,"-33.75459,150.91503",09:45,0.0,56,56,1214
+Sunnyholt Road Southbound,"-33.76263,150.91352",09:45,23.25581395348837,33,43,1214
+Sunnyholt Road Southbound,"-33.76971,150.9122",09:45,23.25581395348837,33,43,1214
+Camden Valley Way Northbound,"-34.05205,150.71013",07:00,0.0,57,57,671
+Camden Valley Way Northbound,"-34.04739,150.71745",07:00,0.0,56,56,671
+Camden Valley Way Northbound,"-34.04308,150.72659",07:00,0.0,56,56,671
+Camden Valley Way Northbound,"-34.042,150.73097",07:00,0.0,57,57,671
+Camden Valley Way Northbound,"-34.04004,150.73701",07:00,25.0,21,28,671
+Camden Valley Way Northbound,"-34.04037,150.74456",07:00,21.666666666666668,47,60,671
+Camden Valley Way Northbound,"-34.04313,150.75462",07:00,15.625,54,64,671
+Camden Valley Way Northbound,"-34.04808,150.76201",07:00,8.571428571428575,64,70,671
+Camden Valley Way Northbound,"-34.05371,150.77342",07:00,40.57971014492754,41,69,671
+Camden Valley Way Northbound,"-34.05958,150.78113",07:00,28.985507246376805,49,69,671
+Camden Valley Way Northbound,"-34.05802,150.79228",07:00,0.0,108,108,671
+Camden Valley Way Northbound,"-34.05227,150.80992",07:00,0.0,108,108,671
+Camden Valley Way Northbound,"-34.03904,150.82268",07:00,0.0,108,108,671
+Camden Valley Way Northbound,"-34.01802,150.82484",07:00,0.0,106,106,671
+Camden Valley Way Northbound,"-34.00503,150.83444",07:00,0.0,106,106,671
+Camden Valley Way Northbound,"-33.99057,150.85192",07:00,0.0,106,106,671
+Camden Valley Way Northbound,"-33.98106,150.86496",07:00,0.0,106,106,671
+Camden Valley Way Northbound,"-33.96972,150.87398",07:00,0.0,106,106,671
+Camden Valley Way Northbound,"-33.95767,150.87545",07:00,33.333333333333336,26,39,671
+Camden Valley Way Northbound,"-33.95732,150.88236",07:00,12.765957446808509,41,47,671
+Camden Valley Way Northbound,"-34.05205,150.71013",07:15,0.0,57,57,671
+Camden Valley Way Northbound,"-34.04739,150.71745",07:15,0.0,56,56,671
+Camden Valley Way Northbound,"-34.04308,150.72659",07:15,0.0,56,56,671
+Camden Valley Way Northbound,"-34.042,150.73097",07:15,0.0,57,57,671
+Camden Valley Way Northbound,"-34.04004,150.73701",07:15,31.034482758620683,20,29,671
+Camden Valley Way Northbound,"-34.04037,150.74456",07:15,0.0,60,60,671
+Camden Valley Way Northbound,"-34.04313,150.75462",07:15,33.84615384615385,43,65,671
+Camden Valley Way Northbound,"-34.04808,150.76201",07:15,0.0,70,70,671
+Camden Valley Way Northbound,"-34.05371,150.77342",07:15,27.142857142857142,51,70,671
+Camden Valley Way Northbound,"-34.05958,150.78113",07:15,14.492753623188404,59,69,671
+Camden Valley Way Northbound,"-34.05802,150.79228",07:15,0.0,108,108,671
+Camden Valley Way Northbound,"-34.05227,150.80992",07:15,0.0,108,108,671
+Camden Valley Way Northbound,"-34.03904,150.82268",07:15,0.0,108,108,671
+Camden Valley Way Northbound,"-34.01802,150.82484",07:15,0.0,106,106,671
+Camden Valley Way Northbound,"-34.00503,150.83444",07:15,0.0,106,106,671
+Camden Valley Way Northbound,"-33.99057,150.85192",07:15,0.0,106,106,671
+Camden Valley Way Northbound,"-33.98106,150.86496",07:15,0.0,106,106,671
+Camden Valley Way Northbound,"-33.96972,150.87398",07:15,0.0,106,106,671
+Camden Valley Way Northbound,"-33.95767,150.87545",07:15,7.272727272727275,51,55,671
+Camden Valley Way Northbound,"-33.95732,150.88236",07:15,42.553191489361694,27,47,671
+Camden Valley Way Northbound,"-34.05205,150.71013",07:30,0.0,57,57,671
+Camden Valley Way Northbound,"-34.04739,150.71745",07:30,0.0,56,56,671
+Camden Valley Way Northbound,"-34.04308,150.72659",07:30,0.0,56,56,671
+Camden Valley Way Northbound,"-34.042,150.73097",07:30,0.0,57,57,671
+Camden Valley Way Northbound,"-34.04004,150.73701",07:30,42.85714285714286,16,28,671
+Camden Valley Way Northbound,"-34.04037,150.74456",07:30,0.0,61,61,671
+Camden Valley Way Northbound,"-34.04313,150.75462",07:30,19.672131147540984,49,61,671
+Camden Valley Way Northbound,"-34.04808,150.76201",07:30,8.571428571428575,64,70,671
+Camden Valley Way Northbound,"-34.05371,150.77342",07:30,47.82608695652174,36,69,671
+Camden Valley Way Northbound,"-34.05958,150.78113",07:30,40.0,42,70,671
+Camden Valley Way Northbound,"-34.05802,150.79228",07:30,0.0,108,108,671
+Camden Valley Way Northbound,"-34.05227,150.80992",07:30,0.0,108,108,671
+Camden Valley Way Northbound,"-34.03904,150.82268",07:30,0.0,108,108,671
+Camden Valley Way Northbound,"-34.01802,150.82484",07:30,0.0,106,106,671
+Camden Valley Way Northbound,"-34.00503,150.83444",07:30,0.0,106,106,671
+Camden Valley Way Northbound,"-33.99057,150.85192",07:30,0.0,106,106,671
+Camden Valley Way Northbound,"-33.98106,150.86496",07:30,0.0,106,106,671
+Camden Valley Way Northbound,"-33.96972,150.87398",07:30,0.0,106,106,671
+Camden Valley Way Northbound,"-33.95767,150.87545",07:30,3.6363636363636376,53,55,671
+Camden Valley Way Northbound,"-33.95732,150.88236",07:30,19.14893617021277,38,47,671
+Camden Valley Way Northbound,"-34.05205,150.71013",07:45,0.0,57,57,671
+Camden Valley Way Northbound,"-34.04739,150.71745",07:45,0.0,55,55,671
+Camden Valley Way Northbound,"-34.04308,150.72659",07:45,0.0,55,55,671
+Camden Valley Way Northbound,"-34.042,150.73097",07:45,0.0,57,57,671
+Camden Valley Way Northbound,"-34.04004,150.73701",07:45,21.42857142857143,22,28,671
+Camden Valley Way Northbound,"-34.04037,150.74456",07:45,30.000000000000004,42,60,671
+Camden Valley Way Northbound,"-34.04313,150.75462",07:45,36.36363636363637,42,66,671
+Camden Valley Way Northbound,"-34.04808,150.76201",07:45,0.0,68,68,671
+Camden Valley Way Northbound,"-34.05371,150.77342",07:45,21.73913043478261,54,69,671
+Camden Valley Way Northbound,"-34.05958,150.78113",07:45,0.0,70,70,671
+Camden Valley Way Northbound,"-34.05802,150.79228",07:45,0.0,108,108,671
+Camden Valley Way Northbound,"-34.05227,150.80992",07:45,0.0,108,108,671
+Camden Valley Way Northbound,"-34.03904,150.82268",07:45,0.0,108,108,671
+Camden Valley Way Northbound,"-34.01802,150.82484",07:45,0.0,106,106,671
+Camden Valley Way Northbound,"-34.00503,150.83444",07:45,0.0,106,106,671
+Camden Valley Way Northbound,"-33.99057,150.85192",07:45,0.0,106,106,671
+Camden Valley Way Northbound,"-33.98106,150.86496",07:45,0.0,106,106,671
+Camden Valley Way Northbound,"-33.96972,150.87398",07:45,0.0,106,106,671
+Camden Valley Way Northbound,"-33.95767,150.87545",07:45,0.0,55,55,671
+Camden Valley Way Northbound,"-33.95732,150.88236",07:45,23.404255319148938,36,47,671
+Camden Valley Way Northbound,"-34.05205,150.71013",08:00,0.0,57,57,815
+Camden Valley Way Northbound,"-34.04739,150.71745",08:00,0.0,55,55,815
+Camden Valley Way Northbound,"-34.04308,150.72659",08:00,0.0,55,55,815
+Camden Valley Way Northbound,"-34.042,150.73097",08:00,0.0,57,57,815
+Camden Valley Way Northbound,"-34.04004,150.73701",08:00,48.27586206896552,15,29,815
+Camden Valley Way Northbound,"-34.04037,150.74456",08:00,0.0,60,60,815
+Camden Valley Way Northbound,"-34.04313,150.75462",08:00,37.5,40,64,815
+Camden Valley Way Northbound,"-34.04808,150.76201",08:00,8.571428571428575,64,70,815
+Camden Valley Way Northbound,"-34.05371,150.77342",08:00,49.29577464788733,36,71,815
+Camden Valley Way Northbound,"-34.05958,150.78113",08:00,24.28571428571429,53,70,815
+Camden Valley Way Northbound,"-34.05802,150.79228",08:00,0.0,108,108,815
+Camden Valley Way Northbound,"-34.05227,150.80992",08:00,0.0,108,108,815
+Camden Valley Way Northbound,"-34.03904,150.82268",08:00,0.0,108,108,815
+Camden Valley Way Northbound,"-34.01802,150.82484",08:00,0.0,105,105,815
+Camden Valley Way Northbound,"-34.00503,150.83444",08:00,0.0,105,105,815
+Camden Valley Way Northbound,"-33.99057,150.85192",08:00,0.0,105,105,815
+Camden Valley Way Northbound,"-33.98106,150.86496",08:00,0.0,105,105,815
+Camden Valley Way Northbound,"-33.96972,150.87398",08:00,0.0,105,105,815
+Camden Valley Way Northbound,"-33.95767,150.87545",08:00,15.68627450980392,43,51,815
+Camden Valley Way Northbound,"-33.95732,150.88236",08:00,0.0,47,47,815
+Camden Valley Way Northbound,"-34.05205,150.71013",08:15,8.771929824561408,52,57,815
+Camden Valley Way Northbound,"-34.04739,150.71745",08:15,0.0,55,55,815
+Camden Valley Way Northbound,"-34.04308,150.72659",08:15,0.0,55,55,815
+Camden Valley Way Northbound,"-34.042,150.73097",08:15,8.771929824561408,52,57,815
+Camden Valley Way Northbound,"-34.04004,150.73701",08:15,34.48275862068966,19,29,815
+Camden Valley Way Northbound,"-34.04037,150.74456",08:15,0.0,60,60,815
+Camden Valley Way Northbound,"-34.04313,150.75462",08:15,58.730158730158735,26,63,815
+Camden Valley Way Northbound,"-34.04808,150.76201",08:15,20.28985507246377,55,69,815
+Camden Valley Way Northbound,"-34.05371,150.77342",08:15,66.66666666666667,23,69,815
+Camden Valley Way Northbound,"-34.05958,150.78113",08:15,0.0,69,69,815
+Camden Valley Way Northbound,"-34.05802,150.79228",08:15,0.0,108,108,815
+Camden Valley Way Northbound,"-34.05227,150.80992",08:15,0.0,108,108,815
+Camden Valley Way Northbound,"-34.03904,150.82268",08:15,0.0,108,108,815
+Camden Valley Way Northbound,"-34.01802,150.82484",08:15,0.0,105,105,815
+Camden Valley Way Northbound,"-34.00503,150.83444",08:15,0.0,105,105,815
+Camden Valley Way Northbound,"-33.99057,150.85192",08:15,0.0,105,105,815
+Camden Valley Way Northbound,"-33.98106,150.86496",08:15,0.0,105,105,815
+Camden Valley Way Northbound,"-33.96972,150.87398",08:15,0.0,105,105,815
+Camden Valley Way Northbound,"-33.95767,150.87545",08:15,14.000000000000002,43,50,815
+Camden Valley Way Northbound,"-33.95732,150.88236",08:15,18.6046511627907,35,43,815
+Camden Valley Way Northbound,"-34.05205,150.71013",08:30,12.28070175438597,50,57,815
+Camden Valley Way Northbound,"-34.04739,150.71745",08:30,0.0,56,56,815
+Camden Valley Way Northbound,"-34.04308,150.72659",08:30,0.0,56,56,815
+Camden Valley Way Northbound,"-34.042,150.73097",08:30,12.28070175438597,50,57,815
+Camden Valley Way Northbound,"-34.04004,150.73701",08:30,0.0,28,28,815
+Camden Valley Way Northbound,"-34.04037,150.74456",08:30,0.0,60,60,815
+Camden Valley Way Northbound,"-34.04313,150.75462",08:30,25.0,48,64,815
+Camden Valley Way Northbound,"-34.04808,150.76201",08:30,38.57142857142857,43,70,815
+Camden Valley Way Northbound,"-34.05371,150.77342",08:30,60.86956521739131,27,69,815
+Camden Valley Way Northbound,"-34.05958,150.78113",08:30,0.0,69,69,815
+Camden Valley Way Northbound,"-34.05802,150.79228",08:30,0.0,108,108,815
+Camden Valley Way Northbound,"-34.05227,150.80992",08:30,0.0,108,108,815
+Camden Valley Way Northbound,"-34.03904,150.82268",08:30,0.0,108,108,815
+Camden Valley Way Northbound,"-34.01802,150.82484",08:30,0.0,105,105,815
+Camden Valley Way Northbound,"-34.00503,150.83444",08:30,0.0,105,105,815
+Camden Valley Way Northbound,"-33.99057,150.85192",08:30,0.0,105,105,815
+Camden Valley Way Northbound,"-33.98106,150.86496",08:30,0.0,105,105,815
+Camden Valley Way Northbound,"-33.96972,150.87398",08:30,0.0,105,105,815
+Camden Valley Way Northbound,"-33.95767,150.87545",08:30,38.46153846153846,24,39,815
+Camden Valley Way Northbound,"-33.95732,150.88236",08:30,0.0,48,48,815
+Camden Valley Way Northbound,"-34.05205,150.71013",08:45,20.68965517241379,46,58,815
+Camden Valley Way Northbound,"-34.04739,150.71745",08:45,8.92857142857143,51,56,815
+Camden Valley Way Northbound,"-34.04308,150.72659",08:45,8.92857142857143,51,56,815
+Camden Valley Way Northbound,"-34.042,150.73097",08:45,20.68965517241379,46,58,815
+Camden Valley Way Northbound,"-34.04004,150.73701",08:45,58.62068965517242,12,29,815
+Camden Valley Way Northbound,"-34.04037,150.74456",08:45,35.0,39,60,815
+Camden Valley Way Northbound,"-34.04313,150.75462",08:45,29.230769230769223,46,65,815
+Camden Valley Way Northbound,"-34.04808,150.76201",08:45,43.47826086956522,39,69,815
+Camden Valley Way Northbound,"-34.05371,150.77342",08:45,47.14285714285714,37,70,815
+Camden Valley Way Northbound,"-34.05958,150.78113",08:45,21.42857142857143,55,70,815
+Camden Valley Way Northbound,"-34.05802,150.79228",08:45,0.0,108,108,815
+Camden Valley Way Northbound,"-34.05227,150.80992",08:45,0.0,108,108,815
+Camden Valley Way Northbound,"-34.03904,150.82268",08:45,0.0,108,108,815
+Camden Valley Way Northbound,"-34.01802,150.82484",08:45,0.0,105,105,815
+Camden Valley Way Northbound,"-34.00503,150.83444",08:45,0.0,105,105,815
+Camden Valley Way Northbound,"-33.99057,150.85192",08:45,0.0,105,105,815
+Camden Valley Way Northbound,"-33.98106,150.86496",08:45,0.0,105,105,815
+Camden Valley Way Northbound,"-33.96972,150.87398",08:45,0.0,105,105,815
+Camden Valley Way Northbound,"-33.95767,150.87545",08:45,10.909090909090914,49,55,815
+Camden Valley Way Northbound,"-33.95732,150.88236",08:45,25.58139534883721,32,43,815
+Camden Valley Way Northbound,"-34.05205,150.71013",09:00,22.41379310344828,45,58,709
+Camden Valley Way Northbound,"-34.04739,150.71745",09:00,7.272727272727275,51,55,709
+Camden Valley Way Northbound,"-34.04308,150.72659",09:00,7.272727272727275,51,55,709
+Camden Valley Way Northbound,"-34.042,150.73097",09:00,22.41379310344828,45,58,709
+Camden Valley Way Northbound,"-34.04004,150.73701",09:00,31.034482758620683,20,29,709
+Camden Valley Way Northbound,"-34.04037,150.74456",09:00,20.0,48,60,709
+Camden Valley Way Northbound,"-34.04313,150.75462",09:00,9.090909090909092,60,66,709
+Camden Valley Way Northbound,"-34.04808,150.76201",09:00,0.0,68,68,709
+Camden Valley Way Northbound,"-34.05371,150.77342",09:00,33.333333333333336,46,69,709
+Camden Valley Way Northbound,"-34.05958,150.78113",09:00,20.28985507246377,55,69,709
+Camden Valley Way Northbound,"-34.05802,150.79228",09:00,0.0,108,108,709
+Camden Valley Way Northbound,"-34.05227,150.80992",09:00,0.0,108,108,709
+Camden Valley Way Northbound,"-34.03904,150.82268",09:00,0.0,108,108,709
+Camden Valley Way Northbound,"-34.01802,150.82484",09:00,0.0,105,105,709
+Camden Valley Way Northbound,"-34.00503,150.83444",09:00,0.0,105,105,709
+Camden Valley Way Northbound,"-33.99057,150.85192",09:00,0.0,105,105,709
+Camden Valley Way Northbound,"-33.98106,150.86496",09:00,0.0,105,105,709
+Camden Valley Way Northbound,"-33.96972,150.87398",09:00,0.0,105,105,709
+Camden Valley Way Northbound,"-33.95767,150.87545",09:00,33.333333333333336,26,39,709
+Camden Valley Way Northbound,"-33.95732,150.88236",09:00,0.0,47,47,709
+Camden Valley Way Northbound,"-34.05205,150.71013",09:15,0.0,57,57,709
+Camden Valley Way Northbound,"-34.04739,150.71745",09:15,0.0,56,56,709
+Camden Valley Way Northbound,"-34.04308,150.72659",09:15,0.0,56,56,709
+Camden Valley Way Northbound,"-34.042,150.73097",09:15,0.0,57,57,709
+Camden Valley Way Northbound,"-34.04004,150.73701",09:15,55.172413793103445,13,29,709
+Camden Valley Way Northbound,"-34.04037,150.74456",09:15,0.0,60,60,709
+Camden Valley Way Northbound,"-34.04313,150.75462",09:15,18.461538461538463,53,65,709
+Camden Valley Way Northbound,"-34.04808,150.76201",09:15,0.0,68,68,709
+Camden Valley Way Northbound,"-34.05371,150.77342",09:15,0.0,69,69,709
+Camden Valley Way Northbound,"-34.05958,150.78113",09:15,20.28985507246377,55,69,709
+Camden Valley Way Northbound,"-34.05802,150.79228",09:15,0.0,108,108,709
+Camden Valley Way Northbound,"-34.05227,150.80992",09:15,0.0,108,108,709
+Camden Valley Way Northbound,"-34.03904,150.82268",09:15,0.0,108,108,709
+Camden Valley Way Northbound,"-34.01802,150.82484",09:15,0.0,105,105,709
+Camden Valley Way Northbound,"-34.00503,150.83444",09:15,0.0,105,105,709
+Camden Valley Way Northbound,"-33.99057,150.85192",09:15,0.0,105,105,709
+Camden Valley Way Northbound,"-33.98106,150.86496",09:15,0.0,105,105,709
+Camden Valley Way Northbound,"-33.96972,150.87398",09:15,0.0,105,105,709
+Camden Valley Way Northbound,"-33.95767,150.87545",09:15,5.454545454545457,52,55,709
+Camden Valley Way Northbound,"-33.95732,150.88236",09:15,20.93023255813954,34,43,709
+Camden Valley Way Northbound,"-34.05205,150.71013",09:30,24.13793103448276,44,58,709
+Camden Valley Way Northbound,"-34.04739,150.71745",09:30,0.0,56,56,709
+Camden Valley Way Northbound,"-34.04308,150.72659",09:30,0.0,56,56,709
+Camden Valley Way Northbound,"-34.042,150.73097",09:30,24.13793103448276,44,58,709
+Camden Valley Way Northbound,"-34.04004,150.73701",09:30,31.034482758620683,20,29,709
+Camden Valley Way Northbound,"-34.04037,150.74456",09:30,0.0,60,60,709
+Camden Valley Way Northbound,"-34.04313,150.75462",09:30,17.1875,53,64,709
+Camden Valley Way Northbound,"-34.04808,150.76201",09:30,0.0,68,68,709
+Camden Valley Way Northbound,"-34.05371,150.77342",09:30,0.0,71,71,709
+Camden Valley Way Northbound,"-34.05958,150.78113",09:30,0.0,69,69,709
+Camden Valley Way Northbound,"-34.05802,150.79228",09:30,0.0,108,108,709
+Camden Valley Way Northbound,"-34.05227,150.80992",09:30,0.0,108,108,709
+Camden Valley Way Northbound,"-34.03904,150.82268",09:30,0.0,108,108,709
+Camden Valley Way Northbound,"-34.01802,150.82484",09:30,0.0,105,105,709
+Camden Valley Way Northbound,"-34.00503,150.83444",09:30,0.0,105,105,709
+Camden Valley Way Northbound,"-33.99057,150.85192",09:30,0.0,105,105,709
+Camden Valley Way Northbound,"-33.98106,150.86496",09:30,0.0,105,105,709
+Camden Valley Way Northbound,"-33.96972,150.87398",09:30,0.0,105,105,709
+Camden Valley Way Northbound,"-33.95767,150.87545",09:30,9.999999999999998,45,50,709
+Camden Valley Way Northbound,"-33.95732,150.88236",09:30,14.583333333333336,41,48,709
+Camden Valley Way Northbound,"-34.05205,150.71013",09:45,0.0,58,58,709
+Camden Valley Way Northbound,"-34.04739,150.71745",09:45,0.0,56,56,709
+Camden Valley Way Northbound,"-34.04308,150.72659",09:45,0.0,56,56,709
+Camden Valley Way Northbound,"-34.042,150.73097",09:45,0.0,58,58,709
+Camden Valley Way Northbound,"-34.04004,150.73701",09:45,17.85714285714286,23,28,709
+Camden Valley Way Northbound,"-34.04037,150.74456",09:45,0.0,60,60,709
+Camden Valley Way Northbound,"-34.04313,150.75462",09:45,9.230769230769232,59,65,709
+Camden Valley Way Northbound,"-34.04808,150.76201",09:45,0.0,68,68,709
+Camden Valley Way Northbound,"-34.05371,150.77342",09:45,0.0,69,69,709
+Camden Valley Way Northbound,"-34.05958,150.78113",09:45,0.0,70,70,709
+Camden Valley Way Northbound,"-34.05802,150.79228",09:45,0.0,108,108,709
+Camden Valley Way Northbound,"-34.05227,150.80992",09:45,0.0,108,108,709
+Camden Valley Way Northbound,"-34.03904,150.82268",09:45,0.0,108,108,709
+Camden Valley Way Northbound,"-34.01802,150.82484",09:45,0.0,105,105,709
+Camden Valley Way Northbound,"-34.00503,150.83444",09:45,0.0,105,105,709
+Camden Valley Way Northbound,"-33.99057,150.85192",09:45,0.0,105,105,709
+Camden Valley Way Northbound,"-33.98106,150.86496",09:45,0.0,105,105,709
+Camden Valley Way Northbound,"-33.96972,150.87398",09:45,0.0,105,105,709
+Camden Valley Way Northbound,"-33.95767,150.87545",09:45,0.0,39,39,709
+Camden Valley Way Northbound,"-33.95732,150.88236",09:45,0.0,43,43,709
+Camden Valley Way Southbound,"-33.9578,150.88514",07:00,38.46153846153846,24,39,351
+Camden Valley Way Southbound,"-33.95938,150.88165",07:00,34.693877551020414,32,49,351
+Camden Valley Way Southbound,"-33.96264,150.87806",07:00,0.0,56,56,351
+Camden Valley Way Southbound,"-33.96977,150.87448",07:00,0.0,85,85,351
+Camden Valley Way Southbound,"-33.98025,150.86694",07:00,0.0,106,106,351
+Camden Valley Way Southbound,"-33.98927,150.85335",07:00,0.0,106,106,351
+Camden Valley Way Southbound,"-34.00056,150.84294",07:00,0.0,106,106,351
+Camden Valley Way Southbound,"-34.01272,150.82789",07:00,0.0,106,106,351
+Camden Valley Way Southbound,"-34.0297,150.82413",07:00,0.0,106,106,351
+Camden Valley Way Southbound,"-34.04615,150.81933",07:00,0.0,106,106,351
+Camden Valley Way Southbound,"-34.05463,150.80402",07:00,0.0,106,106,351
+Camden Valley Way Southbound,"-34.05997,150.78905",07:00,2.8169014084507005,69,71,351
+Camden Valley Way Southbound,"-34.06385,150.78506",07:00,2.8169014084507005,69,71,351
+Camden Valley Way Southbound,"-34.06194,150.78518",07:00,28.07017543859649,41,57,351
+Camden Valley Way Southbound,"-34.05627,150.77738",07:00,0.0,75,75,351
+Camden Valley Way Southbound,"-34.05294,150.76978",07:00,3.030303030303028,64,66,351
+Camden Valley Way Southbound,"-34.04699,150.76016",07:00,0.0,75,75,351
+Camden Valley Way Southbound,"-34.04154,150.74838",07:00,0.0,75,75,351
+Camden Valley Way Southbound,"-34.03972,150.73849",07:00,0.0,43,43,351
+Camden Valley Way Southbound,"-34.04201,150.73104",07:00,0.0,57,57,351
+Camden Valley Way Southbound,"-34.04334,150.72677",07:00,0.0,57,57,351
+Camden Valley Way Southbound,"-34.04739,150.71745",07:00,0.0,56,56,351
+Camden Valley Way Southbound,"-34.05217,150.70991",07:00,0.0,56,56,351
+Camden Valley Way Southbound,"-33.9578,150.88514",07:15,35.89743589743589,25,39,351
+Camden Valley Way Southbound,"-33.95938,150.88165",07:15,30.612244897959183,34,49,351
+Camden Valley Way Southbound,"-33.96264,150.87806",07:15,0.0,56,56,351
+Camden Valley Way Southbound,"-33.96977,150.87448",07:15,0.0,85,85,351
+Camden Valley Way Southbound,"-33.98025,150.86694",07:15,0.0,106,106,351
+Camden Valley Way Southbound,"-33.98927,150.85335",07:15,0.0,106,106,351
+Camden Valley Way Southbound,"-34.00056,150.84294",07:15,0.0,106,106,351
+Camden Valley Way Southbound,"-34.01272,150.82789",07:15,0.0,106,106,351
+Camden Valley Way Southbound,"-34.0297,150.82413",07:15,0.0,106,106,351
+Camden Valley Way Southbound,"-34.04615,150.81933",07:15,0.0,106,106,351
+Camden Valley Way Southbound,"-34.05463,150.80402",07:15,0.0,106,106,351
+Camden Valley Way Southbound,"-34.05997,150.78905",07:15,4.225352112676061,68,71,351
+Camden Valley Way Southbound,"-34.06385,150.78506",07:15,4.225352112676061,68,71,351
+Camden Valley Way Southbound,"-34.06194,150.78518",07:15,29.82456140350877,40,57,351
+Camden Valley Way Southbound,"-34.05627,150.77738",07:15,0.0,75,75,351
+Camden Valley Way Southbound,"-34.05294,150.76978",07:15,4.61538461538461,62,65,351
+Camden Valley Way Southbound,"-34.04699,150.76016",07:15,0.0,75,75,351
+Camden Valley Way Southbound,"-34.04154,150.74838",07:15,0.0,75,75,351
+Camden Valley Way Southbound,"-34.03972,150.73849",07:15,30.23255813953488,30,43,351
+Camden Valley Way Southbound,"-34.04201,150.73104",07:15,0.0,57,57,351
+Camden Valley Way Southbound,"-34.04334,150.72677",07:15,0.0,57,57,351
+Camden Valley Way Southbound,"-34.04739,150.71745",07:15,0.0,56,56,351
+Camden Valley Way Southbound,"-34.05217,150.70991",07:15,0.0,56,56,351
+Camden Valley Way Southbound,"-33.9578,150.88514",07:30,35.89743589743589,25,39,351
+Camden Valley Way Southbound,"-33.95938,150.88165",07:30,26.0,37,50,351
+Camden Valley Way Southbound,"-33.96264,150.87806",07:30,0.0,53,53,351
+Camden Valley Way Southbound,"-33.96977,150.87448",07:30,0.0,85,85,351
+Camden Valley Way Southbound,"-33.98025,150.86694",07:30,0.0,106,106,351
+Camden Valley Way Southbound,"-33.98927,150.85335",07:30,0.0,106,106,351
+Camden Valley Way Southbound,"-34.00056,150.84294",07:30,0.0,106,106,351
+Camden Valley Way Southbound,"-34.01272,150.82789",07:30,0.0,106,106,351
+Camden Valley Way Southbound,"-34.0297,150.82413",07:30,0.0,106,106,351
+Camden Valley Way Southbound,"-34.04615,150.81933",07:30,0.0,106,106,351
+Camden Valley Way Southbound,"-34.05463,150.80402",07:30,0.0,106,106,351
+Camden Valley Way Southbound,"-34.05997,150.78905",07:30,7.042253521126762,66,71,351
+Camden Valley Way Southbound,"-34.06385,150.78506",07:30,7.042253521126762,66,71,351
+Camden Valley Way Southbound,"-34.06194,150.78518",07:30,31.57894736842105,39,57,351
+Camden Valley Way Southbound,"-34.05627,150.77738",07:30,0.0,74,74,351
+Camden Valley Way Southbound,"-34.05294,150.76978",07:30,9.230769230769232,59,65,351
+Camden Valley Way Southbound,"-34.04699,150.76016",07:30,0.0,75,75,351
+Camden Valley Way Southbound,"-34.04154,150.74838",07:30,0.0,75,75,351
+Camden Valley Way Southbound,"-34.03972,150.73849",07:30,0.0,43,43,351
+Camden Valley Way Southbound,"-34.04201,150.73104",07:30,0.0,57,57,351
+Camden Valley Way Southbound,"-34.04334,150.72677",07:30,0.0,57,57,351
+Camden Valley Way Southbound,"-34.04739,150.71745",07:30,0.0,56,56,351
+Camden Valley Way Southbound,"-34.05217,150.70991",07:30,0.0,56,56,351
+Camden Valley Way Southbound,"-33.9578,150.88514",07:45,48.71794871794872,20,39,351
+Camden Valley Way Southbound,"-33.95938,150.88165",07:45,26.53061224489796,36,49,351
+Camden Valley Way Southbound,"-33.96264,150.87806",07:45,0.0,54,54,351
+Camden Valley Way Southbound,"-33.96977,150.87448",07:45,0.0,85,85,351
+Camden Valley Way Southbound,"-33.98025,150.86694",07:45,0.0,106,106,351
+Camden Valley Way Southbound,"-33.98927,150.85335",07:45,0.0,106,106,351
+Camden Valley Way Southbound,"-34.00056,150.84294",07:45,0.0,106,106,351
+Camden Valley Way Southbound,"-34.01272,150.82789",07:45,0.0,106,106,351
+Camden Valley Way Southbound,"-34.0297,150.82413",07:45,0.0,106,106,351
+Camden Valley Way Southbound,"-34.04615,150.81933",07:45,0.0,106,106,351
+Camden Valley Way Southbound,"-34.05463,150.80402",07:45,0.0,106,106,351
+Camden Valley Way Southbound,"-34.05997,150.78905",07:45,0.0,71,71,351
+Camden Valley Way Southbound,"-34.06385,150.78506",07:45,0.0,71,71,351
+Camden Valley Way Southbound,"-34.06194,150.78518",07:45,22.80701754385965,44,57,351
+Camden Valley Way Southbound,"-34.05627,150.77738",07:45,0.0,74,74,351
+Camden Valley Way Southbound,"-34.05294,150.76978",07:45,4.477611940298509,64,67,351
+Camden Valley Way Southbound,"-34.04699,150.76016",07:45,0.0,75,75,351
+Camden Valley Way Southbound,"-34.04154,150.74838",07:45,0.0,75,75,351
+Camden Valley Way Southbound,"-34.03972,150.73849",07:45,0.0,43,43,351
+Camden Valley Way Southbound,"-34.04201,150.73104",07:45,0.0,57,57,351
+Camden Valley Way Southbound,"-34.04334,150.72677",07:45,0.0,57,57,351
+Camden Valley Way Southbound,"-34.04739,150.71745",07:45,0.0,55,55,351
+Camden Valley Way Southbound,"-34.05217,150.70991",07:45,0.0,55,55,351
+Camden Valley Way Southbound,"-33.9578,150.88514",08:00,64.1025641025641,14,39,683
+Camden Valley Way Southbound,"-33.95938,150.88165",08:00,34.693877551020414,32,49,683
+Camden Valley Way Southbound,"-33.96264,150.87806",08:00,17.85714285714286,46,56,683
+Camden Valley Way Southbound,"-33.96977,150.87448",08:00,0.0,85,85,683
+Camden Valley Way Southbound,"-33.98025,150.86694",08:00,0.0,106,106,683
+Camden Valley Way Southbound,"-33.98927,150.85335",08:00,0.0,106,106,683
+Camden Valley Way Southbound,"-34.00056,150.84294",08:00,0.0,106,106,683
+Camden Valley Way Southbound,"-34.01272,150.82789",08:00,0.0,106,106,683
+Camden Valley Way Southbound,"-34.0297,150.82413",08:00,0.0,106,106,683
+Camden Valley Way Southbound,"-34.04615,150.81933",08:00,0.0,106,106,683
+Camden Valley Way Southbound,"-34.05463,150.80402",08:00,0.0,106,106,683
+Camden Valley Way Southbound,"-34.05997,150.78905",08:00,1.4285714285714235,69,70,683
+Camden Valley Way Southbound,"-34.06385,150.78506",08:00,1.4285714285714235,69,70,683
+Camden Valley Way Southbound,"-34.06194,150.78518",08:00,38.59649122807017,35,57,683
+Camden Valley Way Southbound,"-34.05627,150.77738",08:00,25.33333333333333,56,75,683
+Camden Valley Way Southbound,"-34.05294,150.76978",08:00,0.0,65,65,683
+Camden Valley Way Southbound,"-34.04699,150.76016",08:00,0.0,75,75,683
+Camden Valley Way Southbound,"-34.04154,150.74838",08:00,0.0,75,75,683
+Camden Valley Way Southbound,"-34.03972,150.73849",08:00,30.23255813953488,30,43,683
+Camden Valley Way Southbound,"-34.04201,150.73104",08:00,0.0,57,57,683
+Camden Valley Way Southbound,"-34.04334,150.72677",08:00,0.0,57,57,683
+Camden Valley Way Southbound,"-34.04739,150.71745",08:00,0.0,55,55,683
+Camden Valley Way Southbound,"-34.05217,150.70991",08:00,0.0,55,55,683
+Camden Valley Way Southbound,"-33.9578,150.88514",08:15,28.205128205128204,28,39,683
+Camden Valley Way Southbound,"-33.95938,150.88165",08:15,32.0,34,50,683
+Camden Valley Way Southbound,"-33.96264,150.87806",08:15,20.37037037037037,43,54,683
+Camden Valley Way Southbound,"-33.96977,150.87448",08:15,0.0,85,85,683
+Camden Valley Way Southbound,"-33.98025,150.86694",08:15,0.0,106,106,683
+Camden Valley Way Southbound,"-33.98927,150.85335",08:15,0.0,106,106,683
+Camden Valley Way Southbound,"-34.00056,150.84294",08:15,0.0,106,106,683
+Camden Valley Way Southbound,"-34.01272,150.82789",08:15,0.0,106,106,683
+Camden Valley Way Southbound,"-34.0297,150.82413",08:15,0.0,106,106,683
+Camden Valley Way Southbound,"-34.04615,150.81933",08:15,0.0,106,106,683
+Camden Valley Way Southbound,"-34.05463,150.80402",08:15,0.0,106,106,683
+Camden Valley Way Southbound,"-34.05997,150.78905",08:15,0.0,70,70,683
+Camden Valley Way Southbound,"-34.06385,150.78506",08:15,0.0,70,70,683
+Camden Valley Way Southbound,"-34.06194,150.78518",08:15,38.59649122807017,35,57,683
+Camden Valley Way Southbound,"-34.05627,150.77738",08:15,27.027027027027028,54,74,683
+Camden Valley Way Southbound,"-34.05294,150.76978",08:15,0.0,66,66,683
+Camden Valley Way Southbound,"-34.04699,150.76016",08:15,0.0,75,75,683
+Camden Valley Way Southbound,"-34.04154,150.74838",08:15,0.0,75,75,683
+Camden Valley Way Southbound,"-34.03972,150.73849",08:15,0.0,43,43,683
+Camden Valley Way Southbound,"-34.04201,150.73104",08:15,14.035087719298245,49,57,683
+Camden Valley Way Southbound,"-34.04334,150.72677",08:15,14.035087719298245,49,57,683
+Camden Valley Way Southbound,"-34.04739,150.71745",08:15,7.14285714285714,52,56,683
+Camden Valley Way Southbound,"-34.05217,150.70991",08:15,7.14285714285714,52,56,683
+Camden Valley Way Southbound,"-33.9578,150.88514",08:30,0.0,40,40,683
+Camden Valley Way Southbound,"-33.95938,150.88165",08:30,0.0,49,49,683
+Camden Valley Way Southbound,"-33.96264,150.87806",08:30,11.111111111111116,48,54,683
+Camden Valley Way Southbound,"-33.96977,150.87448",08:30,0.0,85,85,683
+Camden Valley Way Southbound,"-33.98025,150.86694",08:30,0.0,106,106,683
+Camden Valley Way Southbound,"-33.98927,150.85335",08:30,0.0,106,106,683
+Camden Valley Way Southbound,"-34.00056,150.84294",08:30,0.0,106,106,683
+Camden Valley Way Southbound,"-34.01272,150.82789",08:30,0.0,106,106,683
+Camden Valley Way Southbound,"-34.0297,150.82413",08:30,0.0,106,106,683
+Camden Valley Way Southbound,"-34.04615,150.81933",08:30,0.0,106,106,683
+Camden Valley Way Southbound,"-34.05463,150.80402",08:30,0.0,106,106,683
+Camden Valley Way Southbound,"-34.05997,150.78905",08:30,2.8169014084507005,69,71,683
+Camden Valley Way Southbound,"-34.06385,150.78506",08:30,2.8169014084507005,69,71,683
+Camden Valley Way Southbound,"-34.06194,150.78518",08:30,47.36842105263158,30,57,683
+Camden Valley Way Southbound,"-34.05627,150.77738",08:30,28.37837837837838,53,74,683
+Camden Valley Way Southbound,"-34.05294,150.76978",08:30,0.0,62,62,683
+Camden Valley Way Southbound,"-34.04699,150.76016",08:30,0.0,75,75,683
+Camden Valley Way Southbound,"-34.04154,150.74838",08:30,0.0,75,75,683
+Camden Valley Way Southbound,"-34.03972,150.73849",08:30,25.58139534883721,32,43,683
+Camden Valley Way Southbound,"-34.04201,150.73104",08:30,10.344827586206897,52,58,683
+Camden Valley Way Southbound,"-34.04334,150.72677",08:30,10.344827586206897,52,58,683
+Camden Valley Way Southbound,"-34.04739,150.71745",08:30,0.0,56,56,683
+Camden Valley Way Southbound,"-34.05217,150.70991",08:30,0.0,56,56,683
+Camden Valley Way Southbound,"-33.9578,150.88514",08:45,35.0,26,40,683
+Camden Valley Way Southbound,"-33.95938,150.88165",08:45,43.99999999999999,28,50,683
+Camden Valley Way Southbound,"-33.96264,150.87806",08:45,0.0,54,54,683
+Camden Valley Way Southbound,"-33.96977,150.87448",08:45,0.0,85,85,683
+Camden Valley Way Southbound,"-33.98025,150.86694",08:45,0.0,106,106,683
+Camden Valley Way Southbound,"-33.98927,150.85335",08:45,0.0,106,106,683
+Camden Valley Way Southbound,"-34.00056,150.84294",08:45,0.0,106,106,683
+Camden Valley Way Southbound,"-34.01272,150.82789",08:45,0.0,106,106,683
+Camden Valley Way Southbound,"-34.0297,150.82413",08:45,0.0,106,106,683
+Camden Valley Way Southbound,"-34.04615,150.81933",08:45,0.0,106,106,683
+Camden Valley Way Southbound,"-34.05463,150.80402",08:45,0.0,106,106,683
+Camden Valley Way Southbound,"-34.05997,150.78905",08:45,1.4285714285714235,69,70,683
+Camden Valley Way Southbound,"-34.06385,150.78506",08:45,1.4285714285714235,69,70,683
+Camden Valley Way Southbound,"-34.06194,150.78518",08:45,34.48275862068966,38,58,683
+Camden Valley Way Southbound,"-34.05627,150.77738",08:45,24.32432432432432,56,74,683
+Camden Valley Way Southbound,"-34.05294,150.76978",08:45,15.625,54,64,683
+Camden Valley Way Southbound,"-34.04699,150.76016",08:45,0.0,74,74,683
+Camden Valley Way Southbound,"-34.04154,150.74838",08:45,0.0,74,74,683
+Camden Valley Way Southbound,"-34.03972,150.73849",08:45,23.25581395348837,33,43,683
+Camden Valley Way Southbound,"-34.04201,150.73104",08:45,18.96551724137932,47,58,683
+Camden Valley Way Southbound,"-34.04334,150.72677",08:45,18.96551724137932,47,58,683
+Camden Valley Way Southbound,"-34.04739,150.71745",08:45,8.92857142857143,51,56,683
+Camden Valley Way Southbound,"-34.05217,150.70991",08:45,8.92857142857143,51,56,683
+Camden Valley Way Southbound,"-33.9578,150.88514",09:00,28.205128205128204,28,39,641
+Camden Valley Way Southbound,"-33.95938,150.88165",09:00,30.612244897959183,34,49,641
+Camden Valley Way Southbound,"-33.96264,150.87806",09:00,16.07142857142857,47,56,641
+Camden Valley Way Southbound,"-33.96977,150.87448",09:00,0.0,85,85,641
+Camden Valley Way Southbound,"-33.98025,150.86694",09:00,0.0,106,106,641
+Camden Valley Way Southbound,"-33.98927,150.85335",09:00,0.0,106,106,641
+Camden Valley Way Southbound,"-34.00056,150.84294",09:00,0.0,106,106,641
+Camden Valley Way Southbound,"-34.01272,150.82789",09:00,0.0,106,106,641
+Camden Valley Way Southbound,"-34.0297,150.82413",09:00,0.0,106,106,641
+Camden Valley Way Southbound,"-34.04615,150.81933",09:00,0.0,106,106,641
+Camden Valley Way Southbound,"-34.05463,150.80402",09:00,0.0,106,106,641
+Camden Valley Way Southbound,"-34.05997,150.78905",09:00,0.0,70,70,641
+Camden Valley Way Southbound,"-34.06385,150.78506",09:00,0.0,70,70,641
+Camden Valley Way Southbound,"-34.06194,150.78518",09:00,0.0,58,58,641
+Camden Valley Way Southbound,"-34.05627,150.77738",09:00,0.0,74,74,641
+Camden Valley Way Southbound,"-34.05294,150.76978",09:00,6.060606060606055,62,66,641
+Camden Valley Way Southbound,"-34.04699,150.76016",09:00,0.0,74,74,641
+Camden Valley Way Southbound,"-34.04154,150.74838",09:00,0.0,74,74,641
+Camden Valley Way Southbound,"-34.03972,150.73849",09:00,51.16279069767442,21,43,641
+Camden Valley Way Southbound,"-34.04201,150.73104",09:00,22.41379310344828,45,58,641
+Camden Valley Way Southbound,"-34.04334,150.72677",09:00,20.68965517241379,46,58,641
+Camden Valley Way Southbound,"-34.04739,150.71745",09:00,10.909090909090914,49,55,641
+Camden Valley Way Southbound,"-34.05217,150.70991",09:00,12.5,49,56,641
+Camden Valley Way Southbound,"-33.9578,150.88514",09:15,40.0,24,40,641
+Camden Valley Way Southbound,"-33.95938,150.88165",09:15,32.0,34,50,641
+Camden Valley Way Southbound,"-33.96264,150.87806",09:15,18.867924528301884,43,53,641
+Camden Valley Way Southbound,"-33.96977,150.87448",09:15,0.0,85,85,641
+Camden Valley Way Southbound,"-33.98025,150.86694",09:15,0.0,106,106,641
+Camden Valley Way Southbound,"-33.98927,150.85335",09:15,0.0,106,106,641
+Camden Valley Way Southbound,"-34.00056,150.84294",09:15,0.0,106,106,641
+Camden Valley Way Southbound,"-34.01272,150.82789",09:15,0.0,106,106,641
+Camden Valley Way Southbound,"-34.0297,150.82413",09:15,0.0,106,106,641
+Camden Valley Way Southbound,"-34.04615,150.81933",09:15,0.0,106,106,641
+Camden Valley Way Southbound,"-34.05463,150.80402",09:15,0.0,106,106,641
+Camden Valley Way Southbound,"-34.05997,150.78905",09:15,2.8169014084507005,69,71,641
+Camden Valley Way Southbound,"-34.06385,150.78506",09:15,2.8169014084507005,69,71,641
+Camden Valley Way Southbound,"-34.06194,150.78518",09:15,22.41379310344828,45,58,641
+Camden Valley Way Southbound,"-34.05627,150.77738",09:15,0.0,75,75,641
+Camden Valley Way Southbound,"-34.05294,150.76978",09:15,0.0,62,62,641
+Camden Valley Way Southbound,"-34.04699,150.76016",09:15,0.0,74,74,641
+Camden Valley Way Southbound,"-34.04154,150.74838",09:15,0.0,74,74,641
+Camden Valley Way Southbound,"-34.03972,150.73849",09:15,60.46511627906976,17,43,641
+Camden Valley Way Southbound,"-34.04201,150.73104",09:15,0.0,57,57,641
+Camden Valley Way Southbound,"-34.04334,150.72677",09:15,0.0,57,57,641
+Camden Valley Way Southbound,"-34.04739,150.71745",09:15,0.0,56,56,641
+Camden Valley Way Southbound,"-34.05217,150.70991",09:15,0.0,56,56,641
+Camden Valley Way Southbound,"-33.9578,150.88514",09:30,42.50000000000001,23,40,641
+Camden Valley Way Southbound,"-33.95938,150.88165",09:30,34.0,33,50,641
+Camden Valley Way Southbound,"-33.96264,150.87806",09:30,0.0,54,54,641
+Camden Valley Way Southbound,"-33.96977,150.87448",09:30,0.0,85,85,641
+Camden Valley Way Southbound,"-33.98025,150.86694",09:30,0.0,106,106,641
+Camden Valley Way Southbound,"-33.98927,150.85335",09:30,0.0,106,106,641
+Camden Valley Way Southbound,"-34.00056,150.84294",09:30,0.0,106,106,641
+Camden Valley Way Southbound,"-34.01272,150.82789",09:30,0.0,106,106,641
+Camden Valley Way Southbound,"-34.0297,150.82413",09:30,0.0,106,106,641
+Camden Valley Way Southbound,"-34.04615,150.81933",09:30,0.0,106,106,641
+Camden Valley Way Southbound,"-34.05463,150.80402",09:30,0.0,106,106,641
+Camden Valley Way Southbound,"-34.05997,150.78905",09:30,2.8169014084507005,69,71,641
+Camden Valley Way Southbound,"-34.06385,150.78506",09:30,2.8169014084507005,69,71,641
+Camden Valley Way Southbound,"-34.06194,150.78518",09:30,25.86206896551724,43,58,641
+Camden Valley Way Southbound,"-34.05627,150.77738",09:30,0.0,75,75,641
+Camden Valley Way Southbound,"-34.05294,150.76978",09:30,0.0,67,67,641
+Camden Valley Way Southbound,"-34.04699,150.76016",09:30,0.0,74,74,641
+Camden Valley Way Southbound,"-34.04154,150.74838",09:30,0.0,74,74,641
+Camden Valley Way Southbound,"-34.03972,150.73849",09:30,44.18604651162791,24,43,641
+Camden Valley Way Southbound,"-34.04201,150.73104",09:30,17.543859649122805,47,57,641
+Camden Valley Way Southbound,"-34.04334,150.72677",09:30,15.517241379310342,49,58,641
+Camden Valley Way Southbound,"-34.04739,150.71745",09:30,0.0,56,56,641
+Camden Valley Way Southbound,"-34.05217,150.70991",09:30,0.0,56,56,641
+Camden Valley Way Southbound,"-33.9578,150.88514",09:45,47.5,21,40,641
+Camden Valley Way Southbound,"-33.95938,150.88165",09:45,36.0,32,50,641
+Camden Valley Way Southbound,"-33.96264,150.87806",09:45,0.0,54,54,641
+Camden Valley Way Southbound,"-33.96977,150.87448",09:45,0.0,85,85,641
+Camden Valley Way Southbound,"-33.98025,150.86694",09:45,0.0,106,106,641
+Camden Valley Way Southbound,"-33.98927,150.85335",09:45,0.0,106,106,641
+Camden Valley Way Southbound,"-34.00056,150.84294",09:45,0.0,106,106,641
+Camden Valley Way Southbound,"-34.01272,150.82789",09:45,0.0,106,106,641
+Camden Valley Way Southbound,"-34.0297,150.82413",09:45,0.0,106,106,641
+Camden Valley Way Southbound,"-34.04615,150.81933",09:45,0.0,106,106,641
+Camden Valley Way Southbound,"-34.05463,150.80402",09:45,0.0,106,106,641
+Camden Valley Way Southbound,"-34.05997,150.78905",09:45,1.4285714285714235,69,70,641
+Camden Valley Way Southbound,"-34.06385,150.78506",09:45,1.4285714285714235,69,70,641
+Camden Valley Way Southbound,"-34.06194,150.78518",09:45,21.052631578947366,45,57,641
+Camden Valley Way Southbound,"-34.05627,150.77738",09:45,0.0,75,75,641
+Camden Valley Way Southbound,"-34.05294,150.76978",09:45,0.0,66,66,641
+Camden Valley Way Southbound,"-34.04699,150.76016",09:45,0.0,74,74,641
+Camden Valley Way Southbound,"-34.04154,150.74838",09:45,0.0,74,74,641
+Camden Valley Way Southbound,"-34.03972,150.73849",09:45,55.81395348837209,19,43,641
+Camden Valley Way Southbound,"-34.04201,150.73104",09:45,0.0,58,58,641
+Camden Valley Way Southbound,"-34.04334,150.72677",09:45,0.0,58,58,641
+Camden Valley Way Southbound,"-34.04739,150.71745",09:45,0.0,56,56,641
+Camden Valley Way Southbound,"-34.05217,150.70991",09:45,0.0,56,56,641

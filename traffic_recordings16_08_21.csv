@@ -1,0 +1,35 @@
+road,point,traffic_percent,hour,currentSpeed,freeFlowSpeed
+Eastern distributor northbound,"-33.91176,151.21283",0.0,21:28,78,78
+Eastern distributor northbound,"-33.90156,151.21484",0.0,21:28,8,8
+Eastern distributor northbound,"-33.89189,151.21683",0.0,21:28,72,72
+Eastern distributor northbound,"-33.88284,151.2172",0.0,21:28,72,72
+Eastern distributor northbound,"-33.87574,151.21744",0.0,21:28,69,69
+Eastern distributor northbound,"-33.87096,151.21811",0.0,21:28,69,69
+Eastern distributor northbound,"-33.86693,151.2159",0.0,21:28,69,69
+western Distributor Eastbound,"-33.8716,151.19324",0.0,21:28,61,61
+western Distributor Eastbound,"-33.87487,151.19688",0.0,21:28,59,59
+western Distributor Eastbound,"-33.87298,151.20221",0.0,21:28,61,61
+western Distributor Eastbound,"-33.8682,151.20282",0.0,21:28,66,66
+western Distributor Eastbound,"-33.8623,151.20497",0.0,21:28,66,66
+western Distributor Westbound,"-33.86038,151.20601",0.0,21:28,64,64
+western Distributor Westbound,"-33.86396,151.20436",0.0,21:28,64,64
+western Distributor Westbound,"-33.8704,151.20326",0.0,21:28,62,62
+western Distributor Westbound,"-33.87274,151.2033",0.0,21:28,62,62
+western Distributor Westbound,"-33.87435,151.20108",0.0,21:28,61,61
+western Distributor Westbound,"-33.87505,151.19639",0.0,21:28,59,59
+western Distributor Westbound,"-33.87162,151.19295",0.0,21:28,59,59
+Cahill Expressway Northbound,"-33.86161,151.21329",0.0,21:28,43,43
+Cahill Expressway Northbound,"-33.8633,151.21326",0.0,21:28,43,43
+Cahill Expressway Northbound,"-33.86155,151.21224",0.0,21:28,61,61
+Cahill Expressway Northbound,"-33.86094,151.20603",0.0,21:28,60,60
+Cahill Expressway Northbound,"-33.86024,151.20454",0.0,21:28,61,61
+Cahill Expressway Northbound,"-33.86102,151.20515",0.0,21:28,61,61
+Cahill Expressway southbound,"-33.84246,151.21116",0.0,21:28,59,59
+Cahill Expressway southbound,"-33.84923,151.2126",0.0,21:28,60,60
+Cahill Expressway southbound,"-33.85581,151.20858",0.0,21:28,60,60
+Cahill Expressway southbound,"-33.86078,151.20649",0.0,21:28,60,60
+Cahill Expressway southbound,"-33.86159,151.21311",0.0,21:28,60,60
+City road southbound,"-33.88793,151.1929",0.0,21:28,40,40
+City road nortbound,"-33.89009,151.18956",0.0,21:28,41,41
+City road nortbound,"-33.88534,151.19436",0.0,21:28,28,28
+Brisbane Water Drive Northbound,"-33.47617,151.32398",0.0,21:28,64,64

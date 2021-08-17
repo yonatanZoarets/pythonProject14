@@ -1,0 +1,153 @@
+road,time,conjestionLevel,numOfCars,avgSpeed
+Eastern distributor northbound,6:00-6:45,busy,684,58.03571429
+Eastern distributor northbound,7:00-7:45,busy,888,48.97321429
+Eastern distributor northbound,8:00-8:45,busy,920,41.25
+Eastern distributor northbound,9:00-9:45,busy,784,45.04464286
+Western Distributor Eastbound,6:00-6:45,busy,4259,49.575
+Western Distributor Eastbound,7:00-7:45,busy,5138,46.8375
+Western Distributor Eastbound,8:00-8:45,very busy,4954,29.3
+Western Distributor Eastbound,9:00-9:45,very busy,4748,40.225
+Western Distributor Westbound,6:00-6:45,free,1696,52.17857143
+Western Distributor Westbound,7:00-7:45,free,2557,51.8125
+Western Distributor Westbound,8:00-8:45,busy,2803,47.44642857
+Western Distributor Westbound,9:00-9:45,busy,2899,50.59821429
+Cahill Expressway Northbound,6:00-6:45,busy,486,46.35416667
+Cahill Expressway Northbound,7:00-7:45,busy,936,46.08333333
+Cahill Expressway Northbound,8:00-8:45,busy,1056,41.01041667
+Cahill Expressway Northbound,9:00-9:45,busy,987,42.95833333
+Cahill Expressway southbound,6:00-6:45,free,1116,37.6
+Cahill Expressway southbound,7:00-7:45,busy,1522,46.2375
+Cahill Expressway southbound,8:00-8:45,busy,1493,40.575
+Cahill Expressway southbound,9:00-9:45,busy,1462,40.725
+City road southbound,6:00-6:45,very busy,1017,0
+City road southbound,7:00-7:45,very busy,1421,0
+City road southbound,8:00-8:45,very busy,1554,0
+City road southbound,9:00-9:45,very busy,1401,0
+City road nortbound,6:00-6:45,very busy,362,13.125
+City road nortbound,7:00-7:45,very busy,599,12
+City road nortbound,8:00-8:45,very busy,775,11.28125
+City road nortbound,9:00-9:45,very busy,848,12.90625
+Brisbane Water Drive Northbound,6:00-6:45,free,400,52.22916667
+Brisbane Water Drive Northbound,7:00-7:45,free,669,52.30208333
+Brisbane Water Drive Northbound,8:00-8:45,busy,735,44.36979167
+Brisbane Water Drive Northbound,9:00-9:45,busy,687,49.22916667
+Brisbane Water Drive Southbound,6:00-6:45,free,201,53.14772727
+Brisbane Water Drive Southbound,7:00-7:45,free,362,53.25
+Brisbane Water Drive Southbound,8:00-8:45,busy,525,48.77840909
+Brisbane Water Drive Southbound,9:00-9:45,free,551,50.88068182
+Burns Bay Road Northbound,6:00-6:45,free,1150,38.390625
+Burns Bay Road Northbound,7:00-7:45,busy,1913,32.3671875
+Burns Bay Road Northbound,8:00-8:45,busy,1984,27.1953125
+Burns Bay Road Northbound,9:00-9:45,busy,1533,33.8515625
+Burns Bay Road Southbound,6:00-6:45,free,647,48.75
+Burns Bay Road Southbound,7:00-7:45,busy,1062,47.17708333
+Burns Bay Road Southbound,8:00-8:45,busy,1217,45.77083333
+Burns Bay Road Southbound,9:00-9:45,busy,1157,46.73958333
+Camden Valley Way Northbound,6:00-6:45,free,267,70.69375
+Camden Valley Way Northbound,7:00-7:45,busy,406,65.025
+Camden Valley Way Northbound,8:00-8:45,busy,548,61.503125
+Camden Valley Way Northbound,9:00-9:45,free,614,68.665625
+Camden Valley Way Southbound,6:00-6:45,free,167,72.4076087
+Camden Valley Way Southbound,7:00-7:45,free,299,71.32608696
+Camden Valley Way Southbound,8:00-8:45,free,605,68.20380435
+Camden Valley Way Southbound,9:00-9:45,free,593,69.72554348
+Sunnyholt Road Northbound,6:00-6:45,busy,502,38.63888889
+Sunnyholt Road Northbound,7:00-7:45,busy,722,35.36805556
+Sunnyholt Road Northbound,8:00-8:45,busy,834,30.55555556
+Sunnyholt Road Northbound,9:00-9:45,busy,860,32.96527778
+Sunnyholt Road Southbound,6:00-6:45,busy,747,40.09375
+Sunnyholt Road Southbound,7:00-7:45,busy,1112,34.8203125
+Sunnyholt Road Southbound,8:00-8:45,busy,1345,29.46875
+Sunnyholt Road Southbound,9:00-9:45,busy,1336,33.8984375
+O'riordan Street northbound,6:00-6:45,busy,621,29
+O'riordan Street northbound,7:00-7:45,busy,747,26.5
+O'riordan Street northbound,8:00-8:45,very busy,772,21.575
+O'riordan Street northbound,9:00-9:45,busy,780,26.4375
+O'riordan Street southbound,6:00-6:45,busy,417,27.03125
+O'riordan Street southbound,7:00-7:45,busy,625,26.65625
+O'riordan Street southbound,8:00-8:45,very busy,770,22.671875
+O'riordan Street southbound,9:00-9:45,busy,719,24.03125
+head street nortbound,6:00-6:45,very busy,297,16.8125
+head street nortbound,7:00-7:45,very busy,508,17.25
+head street nortbound,8:00-8:45,very busy,841,17.03125
+head street nortbound,9:00-9:45,very busy,820,16.9375
+head street southbound,6:00-6:45,busy,239,33.54166667
+head street southbound,7:00-7:45,busy,438,31.58333333
+head street southbound,8:00-8:45,busy,852,30.22916667
+head street southbound,9:00-9:45,busy,899,30.60416667
+putty road northbound,6:00-6:45,free,12,83.79955621
+putty road northbound,7:00-7:45,free,15,83.30732249
+putty road northbound,8:00-8:45,free,22,83.27551775
+putty road northbound,9:00-9:45,free,24,83.2237426
+putty road southbound,6:00-6:45,free,9,83.68343195
+putty road southbound,7:00-7:45,free,16,83.13868343
+putty road southbound,8:00-8:45,free,18,83.08431953
+putty road southbound,9:00-9:45,free,24,82.66531065
+Newcastle Street Eastbound,6:00-6:45,very busy,761,0
+Newcastle Street Eastbound,7:00-7:45,very busy,1098,0
+Newcastle Street Eastbound,8:00-8:45,very busy,1412,0
+Newcastle Street Eastbound,9:00-9:45,very busy,1475,0
+Newcastle Street Westbound,6:00-6:45,very busy,846,0
+Newcastle Street Westbound,7:00-7:45,very busy,1196,0
+Newcastle Street Westbound,8:00-8:45,very busy,1738,0
+Newcastle Street Westbound,9:00-9:45,very busy,1593,0
+Appin Road Northbound,6:00-6:45,free,193,61.34615385
+Appin Road Northbound,7:00-7:45,free,387,61.96634615
+Appin Road Northbound,8:00-8:45,free,366,60.34134615
+Appin Road Northbound,9:00-9:45,free,265,61.53846154
+Appin Road Southbound,6:00-6:45,free,216,62.54166667
+Appin Road Southbound,7:00-7:45,free,274,62.31770833
+Appin Road Southbound,8:00-8:45,free,260,61.19791667
+Appin Road Southbound,9:00-9:45,free,263,61.22916667
+Appin Road Eastbound,6:00-6:45,free,235,79.54545455
+Appin Road Eastbound,7:00-7:45,free,283,79.54545455
+Appin Road Eastbound,8:00-8:45,free,303,79.54545455
+Appin Road Eastbound,9:00-9:45,free,240,79.20454545
+Appin Road Westbound,6:00-6:45,free,318,79.54545455
+Appin Road Westbound,7:00-7:45,free,482,80
+Appin Road Westbound,8:00-8:45,free,343,80
+Appin Road Westbound,9:00-9:45,free,247,80
+Pennant Hills Northbound,6:00-6:45,busy,1656,44.13392857
+Pennant Hills Northbound,7:00-7:45,busy,1903,39.16517857
+Pennant Hills Northbound,8:00-8:45,busy,1770,31.22767857
+Pennant Hills Northbound,9:00-9:45,busy,1762,36.72321429
+Pennant Hills Southbound,6:00-6:45,busy,384,42.67307692
+Pennant Hills Southbound,7:00-7:45,busy,481,37.18269231
+Pennant Hills Southbound,8:00-8:45,very busy,474,28.74038462
+Pennant Hills Southbound,9:00-9:45,busy,389,35.63461538
+Pennant Hills Eastbound,6:00-6:45,busy,229,44.5875
+Pennant Hills Eastbound,7:00-7:45,busy,482,37.9375
+Pennant Hills Eastbound,8:00-8:45,busy,700,34.00625
+Pennant Hills Eastbound,9:00-9:45,busy,587,39.225
+Pennant Hills Westbound,6:00-6:45,free,1594,47.20833333
+Pennant Hills Westbound,7:00-7:45,busy,1922,43.19444444
+Pennant Hills Westbound,8:00-8:45,busy,1864,37.70833333
+Pennant Hills Westbound,9:00-9:45,busy,1844,44.30555556
+Elizabeth Drive2 Westbound,6:00-6:45,busy,800,42.70833333
+Elizabeth Drive2 Westbound,7:00-7:45,busy,922,40.92361111
+Elizabeth Drive2 Westbound,8:00-8:45,busy,1085,33.5
+Elizabeth Drive2 Westbound,9:00-9:45,busy,936,39.92361111
+Elizabeth Drive2 Eastbound,6:00-6:45,busy,914,42.8875
+Elizabeth Drive2 Eastbound,7:00-7:45,busy,1284,41.83125
+Elizabeth Drive2 Eastbound,8:00-8:45,busy,1551,34.75625
+Elizabeth Drive2 Eastbound,9:00-9:45,busy,1153,39.86875
+Elizabeth Drive Westbound,6:00-6:45,free,858,63.47321429
+Elizabeth Drive Westbound,7:00-7:45,free,834,63.41517857
+Elizabeth Drive Westbound,8:00-8:45,free,872,61.52678571
+Elizabeth Drive Westbound,9:00-9:45,free,651,64.07142857
+Elizabeth Drive Eastbound,6:00-6:45,free,689,63.6
+Elizabeth Drive Eastbound,7:00-7:45,free,951,62.9625
+Elizabeth Drive Eastbound,8:00-8:45,free,1002,61.84583333
+Elizabeth Drive Eastbound,9:00-9:45,free,671,63.22083333
+Liverpool Road Eastbound,6:00-6:45,free,877,38.5625
+Liverpool Road Eastbound,7:00-7:45,busy,1342,35.11458333
+Liverpool Road Eastbound,8:00-8:45,busy,1688,30.625
+Liverpool Road Eastbound,9:00-9:45,busy,1462,32.4375
+Liverpool Road Westbound,6:00-6:45,busy,1787,35.41346154
+Liverpool Road Westbound,7:00-7:45,busy,1876,33.52403846
+Liverpool Road Westbound,8:00-8:45,busy,1815,28.62980769
+Liverpool Road Westbound,9:00-9:45,busy,1613,31.65865385
+Eastern distributor southbound,6:00-6:45,busy,495,40.03125
+Eastern distributor southbound,7:00-7:45,busy,742,38.109375
+Eastern distributor southbound,8:00-8:45,very busy,903,34.46875
+Eastern distributor southbound,9:00-9:45,busy,875,33.8625
